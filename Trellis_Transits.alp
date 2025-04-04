@@ -401,7 +401,7 @@ new Thread(() -> {
 							<Value Class="EntityCodeValue">
 								<IsAgentEntity>true</IsAgentEntity>
 								<EntityEmbeddedObject>
-									<Id>1742796554798</Id>
+									<Id>1743769826620</Id>
 									<ActiveObjectClass>
 										<PackageName><![CDATA[Trellis_Transits]]></PackageName>
 										<ClassName><![CDATA[Trellis]]></ClassName>
@@ -432,7 +432,7 @@ new Thread(() -> {
 									</LocationNameCode>
 									<InitializationType>LOAD_FROM_DATABASE</InitializationType>
 									<InitializationDatabaseTableQuery>
-										<Id>1742796554797</Id>
+										<Id>1743769826619</Id>
 										<TableReference>
 										</TableReference>
 									</InitializationDatabaseTableQuery>
@@ -2022,7 +2022,7 @@ new Thread(() -> {
 						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
 					</SpeedLimitValue>
 				</PointNode>
-				<Path SourceId="1742440939620" TargetId="1742440947157">
+				<Path SourceId="1742440939620" TargetId="1743618030949">
 					<Id>1742441892207</Id>
 					<Name><![CDATA[path44]]></Name>
 					<X>1315.528</X><Y>348.94399999999996</Y>
@@ -2044,10 +2044,10 @@ new Thread(() -> {
 					<Points>
 						<Point><X>0</X><Y>0</Y><Z>0</Z></Point>
 						<Point><X>-1.3770000000000007</X><Y>-24.962000000000003</Y><Z>0</Z></Point>
-						<Point><X>-0.13600194398297472</X><Y>24.999630066687644</Y><Z>0</Z></Point>
-						<Point><X>-0.52800000000002</X><Y>97.05600000000004</Y><Z>0</Z></Point>
-						<Point><X>-0.3919980560170453</X><Y>72.0563699333124</Y><Z>0</Z></Point>
-						<Point><X>6.17999999999998</X><Y>-4.248999999999956</Y><Z>0</Z></Point>
+						<Point><X>-0.13600194398297447</X><Y>24.999630066687647</Y><Z>0</Z></Point>
+						<Point><X>-0.3865575119794218</X><Y>71.0562990202147</Y><Z>0</Z></Point>
+						<Point><X>-0.2505555679964473</X><Y>46.05666895352705</Y><Z>0</Z></Point>
+						<Point><X>-0.5225594559623963</X><Y>96.05592908690234</Y><Z>0</Z></Point>
 					</Points>
 					<Bidirectional>false</Bidirectional>
 					<SpeedLimit>false</SpeedLimit>
@@ -2938,7 +2938,7 @@ new Thread(() -> {
 					<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
 					<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
 				</Path>
-				<Path SourceId="1742444673310" TargetId="1742447761233">
+				<Path SourceId="1742444673310" TargetId="1743770104225">
 					<Id>1742446050264</Id>
 					<Name><![CDATA[path4]]></Name>
 					<X>1006.6717988226486</X><Y>507.2188007849009</Y>
@@ -2959,23 +2959,11 @@ new Thread(() -> {
 					</Width>
 					<Points>
 						<Point><X>0</X><Y>0</Y><Z>0</Z></Point>
-						<Point><X>0.665</X><Y>-24.991</Y><Z>0</Z></Point>
-						<Point><X>-0.665</X><Y>24.991</Y><Z>0</Z></Point>
-						<Point><X>-1.672</X><Y>62.781</Y><Z>0</Z></Point>
-						<Point><X>-1.006</X><Y>37.79</Y><Z>0</Z></Point>
-						<Point><X>-2.338</X><Y>87.772</Y><Z>0</Z></Point>
-						<Point><X>-16.672</X><Y>82.781</Y><Z>0</Z></Point>
-						<Point><X>-16.672</X><Y>82.781</Y><Z>0</Z></Point>
-						<Point><X>-16.672</X><Y>82.781</Y><Z>0</Z></Point>
-						<Point><X>-51.672</X><Y>87.781</Y><Z>0</Z></Point>
-						<Point><X>-16.672</X><Y>87.781</Y><Z>0</Z></Point>
-						<Point><X>-76.672</X><Y>87.781</Y><Z>0</Z></Point>
-						<Point><X>-156.672</X><Y>87.781</Y><Z>0</Z></Point>
-						<Point><X>-131.672</X><Y>87.781</Y><Z>0</Z></Point>
-						<Point><X>-181.672</X><Y>87.781</Y><Z>0</Z></Point>
-						<Point><X>-194.78662901218274</X><Y>81.65912839853985</Y><Z>0</Z></Point>
-						<Point><X>-169.60622387821888</X><Y>85.65148187605739</Y><Z>0</Z></Point>
-						<Point><X>-219.9670341461466</X><Y>77.66677492102231</Y><Z>0</Z></Point>
+						<Point><X>0.6649999999999636</X><Y>-24.990999999999985</Y><Z>0</Z></Point>
+						<Point><X>-0.6655705386108425</X><Y>24.991138746726477</Y><Z>0</Z></Point>
+						<Point><X>-1.0065806785763733</X><Y>37.79553922350618</Y><Z>0</Z></Point>
+						<Point><X>-0.34101013996553087</X><Y>12.804400476779705</Y><Z>0</Z></Point>
+						<Point><X>-1.672151217187216</X><Y>62.78667797023265</Y><Z>0</Z></Point>
 					</Points>
 					<Bidirectional>false</Bidirectional>
 					<SpeedLimit>false</SpeedLimit>
@@ -3193,7 +3181,7 @@ new Thread(() -> {
 					<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
 					<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
 				</Path>
-				<Path SourceId="1742444783549" TargetId="1742447204932">
+				<Path SourceId="1742444783549" TargetId="1743770075417">
 					<Id>1742447246520</Id>
 					<Name><![CDATA[path112]]></Name>
 					<X>1191.6717988226487</X><Y>607.218800784901</Y>
@@ -3215,19 +3203,10 @@ new Thread(() -> {
 					<Points>
 						<Point><X>0</X><Y>0</Y><Z>0</Z></Point>
 						<Point><X>16.518</X><Y>-18.765</Y><Z>0</Z></Point>
-						<Point><X>-16.518</X><Y>18.765</Y><Z>0</Z></Point>
-						<Point><X>-81.672</X><Y>92.781</Y><Z>0</Z></Point>
-						<Point><X>-65.153</X><Y>74.016</Y><Z>0</Z></Point>
-						<Point><X>-98.191</X><Y>111.546</Y><Z>0</Z></Point>
-						<Point><X>-121.672</X><Y>152.781</Y><Z>0</Z></Point>
-						<Point><X>-111.672</X><Y>152.781</Y><Z>0</Z></Point>
-						<Point><X>-146.672</X><Y>152.781</Y><Z>0</Z></Point>
-						<Point><X>-401.672</X><Y>152.781</Y><Z>0</Z></Point>
-						<Point><X>-376.672</X><Y>152.781</Y><Z>0</Z></Point>
-						<Point><X>-426.67095268047746</X><Y>152.55216626286807</Y><Z>0</Z></Point>
-						<Point><X>-638.843</X><Y>150.61</Y><Z>0</Z></Point>
-						<Point><X>-613.8440473195225</X><Y>150.83883373713195</Y><Z>0</Z></Point>
-						<Point><X>-429.843</X><Y>160.61</Y><Z>0</Z></Point>
+						<Point><X>-16.51851488612593</X><Y>18.76535813558686</Y><Z>0</Z></Point>
+						<Point><X>-11.969685486925247</X><Y>13.59779837842114</Y><Z>0</Z></Point>
+						<Point><X>4.5488293992006845</X><Y>-5.167559757165721</Y><Z>0</Z></Point>
+						<Point><X>-28.488200373051175</X><Y>32.363156514008004</Y><Z>0</Z></Point>
 					</Points>
 					<Bidirectional>false</Bidirectional>
 					<SpeedLimit>false</SpeedLimit>
@@ -3258,7 +3237,7 @@ new Thread(() -> {
 						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
 					</SpeedLimitValue>
 				</PointNode>
-				<Path SourceId="1742447204932" TargetId="1742446246905">
+				<Path SourceId="1742447204932" TargetId="1743770781904">
 					<Id>1742447282349</Id>
 					<Name><![CDATA[path113]]></Name>
 					<X>546.1194299994187</X><Y>755.9701425001454</Y>
@@ -3280,16 +3259,10 @@ new Thread(() -> {
 					<Points>
 						<Point><X>0</X><Y>0</Y><Z>0</Z></Point>
 						<Point><X>24.994</X><Y>-0.556</Y><Z>0</Z></Point>
-						<Point><X>-24.994</X><Y>0.556</Y><Z>0</Z></Point>
-						<Point><X>-181.119</X><Y>4.03</Y><Z>0</Z></Point>
-						<Point><X>-156.126</X><Y>3.474</Y><Z>0</Z></Point>
-						<Point><X>-206.112</X><Y>4.586</Y><Z>0</Z></Point>
-						<Point><X>-191.119</X><Y>-0.97</Y><Z>0</Z></Point>
-						<Point><X>-171.119</X><Y>19.03</Y><Z>0</Z></Point>
-						<Point><X>-208.07467081975867</X><Y>-19.341315332658795</Y><Z>0</Z></Point>
-						<Point><X>-212.54170963573142</X><Y>-24.181311317708833</Y><Z>0</Z></Point>
-						<Point><X>-195.58603881597276</X><Y>-5.809995985050037</Y><Z>0</Z></Point>
-						<Point><X>-251.62470963573142</X><Y>-45.128311317708835</Y><Z>0</Z></Point>
+						<Point><X>-24.993813701692368</X><Y>0.5561264650192429</Y><Z>0</Z></Point>
+						<Point><X>-76.1688957516306</X><Y>1.694800931316269</Y><Z>0</Z></Point>
+						<Point><X>-51.17508204993823</X><Y>1.1386744662970263</Y><Z>0</Z></Point>
+						<Point><X>-101.16270945332298</X><Y>2.2509273963355128</Y><Z>0</Z></Point>
 					</Points>
 					<Bidirectional>false</Bidirectional>
 					<SpeedLimit>false</SpeedLimit>
@@ -3585,7 +3558,7 @@ new Thread(() -> {
 						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
 					</SpeedLimitValue>
 				</PointNode>
-				<Path SourceId="1741768717579" TargetId="1742446680206">
+				<Path SourceId="1741768717579" TargetId="1743770916868">
 					<Id>1742446629710</Id>
 					<Name><![CDATA[path3]]></Name>
 					<X>82.77449302851781</X><Y>480.2554037890639</Y>
@@ -3628,10 +3601,10 @@ new Thread(() -> {
 						<Point><X>121.4795069714822</X><Y>-106.31840378906391</Y><Z>0</Z></Point>
 						<Point><X>137.22550697148222</X><Y>-110.2554037890639</Y><Z>0</Z></Point>
 						<Point><X>112.97150697148219</X><Y>-104.1924037890639</Y><Z>0</Z></Point>
-						<Point><X>160.55914712655868</X><Y>-119.22988077178564</Y><Z>0</Z></Point>
-						<Point><X>163.22550697148216</X><Y>-120.2554037890639</Y><Z>0</Z></Point>
-						<Point><X>139.8918668164057</X><Y>-111.28092680634217</Y><Z>0</Z></Point>
-						<Point><X>169.8085069714822</X><Y>-194.2814037890639</Y><Z>0</Z></Point>
+						<Point><X>160.55914712655866</X><Y>-119.22988077178573</Y><Z>0</Z></Point>
+						<Point><X>138.2783354273005</X><Y>-110.66033781053248</Y><Z>0</Z></Point>
+						<Point><X>114.94469527222405</X><Y>-101.68586082781064</Y><Z>0</Z></Point>
+						<Point><X>161.611975582377</X><Y>-119.6348147932542</Y><Z>0</Z></Point>
 					</Points>
 					<Bidirectional>false</Bidirectional>
 					<SpeedLimit>false</SpeedLimit>
@@ -4443,7 +4416,7 @@ new Thread(() -> {
 					<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
 					<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
 				</Path>
-				<Path SourceId="1741769225620" TargetId="1742447729817">
+				<Path SourceId="1741769225620" TargetId="1743770340265">
 					<Id>1742447589581</Id>
 					<Name><![CDATA[path119]]></Name>
 					<X>747.218800784901</X><Y>236.6717988226486</Y>
@@ -4469,33 +4442,9 @@ new Thread(() -> {
 						<Point><X>47.781</X><Y>-26.672</Y><Z>0</Z></Point>
 						<Point><X>25.952</X><Y>-14.487</Y><Z>0</Z></Point>
 						<Point><X>69.61</X><Y>-38.857</Y><Z>0</Z></Point>
-						<Point><X>117.781</X><Y>-31.672</Y><Z>0</Z></Point>
-						<Point><X>107.781</X><Y>-31.672</Y><Z>0</Z></Point>
-						<Point><X>142.781</X><Y>-31.672</Y><Z>0</Z></Point>
-						<Point><X>202.781</X><Y>-31.672</Y><Z>0</Z></Point>
-						<Point><X>177.781</X><Y>-31.672</Y><Z>0</Z></Point>
-						<Point><X>227.781</X><Y>-31.672</Y><Z>0</Z></Point>
-						<Point><X>292.781</X><Y>-31.672</Y><Z>0</Z></Point>
-						<Point><X>267.781</X><Y>-31.672</Y><Z>0</Z></Point>
-						<Point><X>317.781</X><Y>-31.672</Y><Z>0</Z></Point>
-						<Point><X>347.781</X><Y>-1.672</Y><Z>0</Z></Point>
-						<Point><X>342.781</X><Y>-11.672</Y><Z>0</Z></Point>
-						<Point><X>361.649</X><Y>19.129</Y><Z>0</Z></Point>
-						<Point><X>357.781</X><Y>13.328</Y><Z>0</Z></Point>
-						<Point><X>343.914</X><Y>-7.473</Y><Z>0</Z></Point>
-						<Point><X>371.648</X><Y>34.129</Y><Z>0</Z></Point>
-						<Point><X>372.781</X><Y>18.328</Y><Z>0</Z></Point>
-						<Point><X>362.781</X><Y>23.328</Y><Z>0</Z></Point>
-						<Point><X>395.76</X><Y>8.48</Y><Z>0</Z></Point>
-						<Point><X>407.781</X><Y>3.328</Y><Z>0</Z></Point>
-						<Point><X>384.803</X><Y>13.176</Y><Z>0</Z></Point>
-						<Point><X>430.759</X><Y>-6.52</Y><Z>0</Z></Point>
-						<Point><X>432.781</X><Y>-26.672</Y><Z>0</Z></Point>
-						<Point><X>432.781</X><Y>-16.672</Y><Z>0</Z></Point>
-						<Point><X>432.781</X><Y>-36.672</Y><Z>0</Z></Point>
-						<Point><X>433.5185049853126</X><Y>-32.69954806387026</Y><Z>0</Z></Point>
-						<Point><X>431.1074857597645</X><Y>-22.994550057995284</Y><Z>0</Z></Point>
-						<Point><X>435.9295242108607</X><Y>-42.40454606974524</Y><Z>0</Z></Point>
+						<Point><X>82.78804968215047</X><Y>-36.77127130762095</Y><Z>0</Z></Point>
+						<Point><X>57.82305446889901</X><Y>-35.456554607212844</Y><Z>0</Z></Point>
+						<Point><X>107.75304489540193</X><Y>-38.085988008029055</Y><Z>0</Z></Point>
 					</Points>
 					<Bidirectional>false</Bidirectional>
 					<SpeedLimit>false</SpeedLimit>
@@ -4571,7 +4520,7 @@ new Thread(() -> {
 						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
 					</SpeedLimitValue>
 				</PointNode>
-				<Path SourceId="1741769281061" TargetId="1742447702913">
+				<Path SourceId="1741769281061" TargetId="1743769980992">
 					<Id>1742447662950</Id>
 					<Name><![CDATA[path120]]></Name>
 					<X>793.9234045419489</X><Y>47.19811952250342</Y>
@@ -4597,12 +4546,9 @@ new Thread(() -> {
 						<Point><X>76.077</X><Y>-12.198</Y><Z>0</Z></Point>
 						<Point><X>41.077</X><Y>-12.198</Y><Z>0</Z></Point>
 						<Point><X>101.077</X><Y>-12.198</Y><Z>0</Z></Point>
-						<Point><X>371.077</X><Y>-12.198</Y><Z>0</Z></Point>
-						<Point><X>346.077</X><Y>-12.198</Y><Z>0</Z></Point>
-						<Point><X>396.07699999821415</X><Y>-12.198298818346966</Y><Z>0</Z></Point>
-						<Point><X>377.0765954583369</X><Y>-12.198071711567898</Y><Z>0</Z></Point>
-						<Point><X>352.07659546012275</X><Y>-12.197772893220932</Y><Z>0</Z></Point>
-						<Point><X>402.0765954583369</X><Y>-12.198071711567898</Y><Z>0</Z></Point>
+						<Point><X>131.0765954580511</X><Y>-12.198</Y><Z>0</Z></Point>
+						<Point><X>106.07659545805109</X><Y>-12.198</Y><Z>0</Z></Point>
+						<Point><X>156.0765954580511</X><Y>-12.198</Y><Z>0</Z></Point>
 					</Points>
 					<Bidirectional>false</Bidirectional>
 					<SpeedLimit>false</SpeedLimit>
@@ -5048,6 +4994,1329 @@ new Thread(() -> {
 					<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
 					<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
 				</Path>
+				<Path SourceId="1742447361731" TargetId="1742447061905">
+					<Id>1743617563911</Id>
+					<Name><![CDATA[path18]]></Name>
+					<X>560.307</X><Y>614.588</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<Z>0</Z>
+					<LineColor>-14774017</LineColor>
+					<LineMaterial>null</LineMaterial>
+					<LineWidth>1</LineWidth>
+					<PathType>railroad</PathType>
+					
+					<Width Class="UnitValue">
+						<Value Class="Double">5</Value>
+						<Unit Class="LengthUnits"><![CDATA[METER]]></Unit>
+					</Width>
+					<Points>
+						<Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>-0.026</X><Y>-25</Y><Z>0</Z></Point>
+						<Point><X>-0.307</X><Y>-294.588</Y><Z>0</Z></Point>
+						<Point><X>-0.281</X><Y>-269.588</Y><Z>0</Z></Point>
+						<Point><X>-8.213</X><Y>-270.871</Y><Z>0</Z></Point>
+					</Points>
+					<Bidirectional>false</Bidirectional>
+					<SpeedLimit>false</SpeedLimit>
+					<SpeedLimitValue Class="CodeUnitValue">
+						<Code><![CDATA[10.0]]></Code>
+						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+					</SpeedLimitValue>
+					<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
+					<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
+				</Path>
+				<Path SourceId="1743617931538" TargetId="1743618030949">
+					<Id>1743617913689</Id>
+					<Name><![CDATA[path57]]></Name>
+					<X>1115.4547154090938</X><Y>258.44114927175883</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<Z>0</Z>
+					<LineColor>-14774017</LineColor>
+					<LineMaterial>null</LineMaterial>
+					<LineWidth>1</LineWidth>
+					<PathType>railroad</PathType>
+					
+					<Width Class="UnitValue">
+						<Value Class="Double">5</Value>
+						<Unit Class="LengthUnits"><![CDATA[METER]]></Unit>
+					</Width>
+					<Points>
+						<Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>18.96047321213535</X><Y>16.29418471639185</Y><Z>0</Z></Point>
+						<Point><X>13.512014028016203</X><Y>21.033912543953708</Y><Z>0</Z></Point>
+						<Point><X>39.545</X><Y>61.559</Y><Z>0</Z></Point>
+						<Point><X>26.0329859719838</X><Y>40.52508745604629</Y><Z>0</Z></Point>
+						<Point><X>52.894824784699544</X><Y>82.69622257577427</Y><Z>0</Z></Point>
+						<Point><X>99.545</X><Y>156.559</Y><Z>0</Z></Point>
+						<Point><X>86.19517521530045</X><Y>135.42177742422572</Y><Z>0</Z></Point>
+						<Point><X>121.9056797749979</X><Y>167.73933988749894</Y><Z>0</Z></Point>
+						<Point><X>129.545</X><Y>171.559</Y><Z>0</Z></Point>
+						<Point><X>107.184</X><Y>160.379</Y><Z>0</Z></Point>
+						<Point><X>154.545</X><Y>171.559</Y><Z>0</Z></Point>
+						<Point><X>189.63200000000006</X><Y>171.559</Y><Z>0</Z></Point>
+						<Point><X>164.63200000000006</X><Y>171.559</Y><Z>0</Z></Point>
+						<Point><X>214.63200000000006</X><Y>171.559</Y><Z>0</Z></Point>
+					</Points>
+					<Bidirectional>true</Bidirectional>
+					<SpeedLimit>false</SpeedLimit>
+					<SpeedLimitValue Class="CodeUnitValue">
+						<Code><![CDATA[10.0]]></Code>
+						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+					</SpeedLimitValue>
+					<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
+					<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
+				</Path>
+				<Path SourceId="1743617931538" TargetId="1742447729817">
+					<Id>1743617931542</Id>
+					<Name><![CDATA[path58]]></Name>
+					<X>1116.255604137878</X><Y>256.10443599965197</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<Z>0</Z>
+					<LineColor>-14774017</LineColor>
+					<LineMaterial>null</LineMaterial>
+					<LineWidth>1</LineWidth>
+					<PathType>railroad</PathType>
+					
+					<Width Class="UnitValue">
+						<Value Class="Double">5</Value>
+						<Unit Class="LengthUnits"><![CDATA[METER]]></Unit>
+					</Width>
+					<Points>
+						<Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>-11.112610037182266</X><Y>1.2287791345542374</Y><Z>0</Z></Point>
+						<Point><X>11.112610037182268</X><Y>-1.2287791345542372</Y><Z>0</Z></Point>
+						<Point><X>3.7441966470230987</X><Y>-1.1046371770033394</Y><Z>0</Z></Point>
+						<Point><X>-6.255803352976901</X><Y>3.8953628229966606</Y><Z>0</Z></Point>
+						<Point><X>26.723196647023084</X><Y>-10.95263717700334</Y><Z>0</Z></Point>
+						<Point><X>38.7441966470231</X><Y>-16.10463717700334</Y><Z>0</Z></Point>
+						<Point><X>15.76619664702309</X><Y>-6.256637177003339</Y><Z>0</Z></Point>
+						<Point><X>61.72219664702311</X><Y>-25.95263717700334</Y><Z>0</Z></Point>
+						<Point><X>63.7441966470231</X><Y>-46.10463717700334</Y><Z>0</Z></Point>
+						<Point><X>63.7441966470231</X><Y>-36.10463717700334</Y><Z>0</Z></Point>
+						<Point><X>63.7441966470231</X><Y>-56.10463717700333</Y><Z>0</Z></Point>
+						<Point><X>64.48170163233567</X><Y>-52.132185240873596</Y><Z>0</Z></Point>
+						<Point><X>62.07068240678757</X><Y>-42.42718723499862</Y><Z>0</Z></Point>
+						<Point><X>66.89272085788377</X><Y>-61.83718324674857</Y><Z>0</Z></Point>
+					</Points>
+					<Bidirectional>false</Bidirectional>
+					<SpeedLimit>false</SpeedLimit>
+					<SpeedLimitValue Class="CodeUnitValue">
+						<Code><![CDATA[10.0]]></Code>
+						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+					</SpeedLimitValue>
+					<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
+					<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
+				</Path>
+				<PointNode>
+					<Id>1743617931538</Id>
+					<Name><![CDATA[node8]]></Name>
+					<X>1107.145</X><Y>252.878</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<Z>0</Z>
+					<FakeNode>true</FakeNode>	
+					<Lock>false</Lock>
+					<Color>-14774017</Color>
+					<Radius>10</Radius>
+					<SpeedLimit>false</SpeedLimit>
+					<SpeedLimitValue Class="UnitValue">
+						<Value Class="Double">10</Value>
+						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+					</SpeedLimitValue>
+				</PointNode>
+				<PointNode>
+					<Id>1743618030949</Id>
+					<Name><![CDATA[node29]]></Name>
+					<X>1315.0867154090938</X><Y>430.0001492717588</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<Z>0</Z>
+					<FakeNode>true</FakeNode>	
+					<Lock>false</Lock>
+					<Color>-14774017</Color>
+					<Radius>10</Radius>
+					<SpeedLimit>false</SpeedLimit>
+					<SpeedLimitValue Class="UnitValue">
+						<Value Class="Double">10</Value>
+						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+					</SpeedLimitValue>
+				</PointNode>
+				<Path SourceId="1743618030949" TargetId="1742440947157">
+					<Id>1743618030952</Id>
+					<Name><![CDATA[path59]]></Name>
+					<X>1315.0326409328343</X><Y>440.00000307356476</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<Z>0</Z>
+					<LineColor>-8355840</LineColor>
+					<LineMaterial>null</LineMaterial>
+					<LineWidth>2</LineWidth>
+					<PathType>line</PathType>
+					
+					<Width Class="UnitValue">
+						<Value Class="Double">1</Value>
+						<Unit Class="LengthUnits"><![CDATA[METER]]></Unit>
+					</Width>
+					<Points>
+						<Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>0.13600194398297455</X><Y>-24.999630066687644</Y><Z>0</Z></Point>
+						<Point><X>-0.13600194398297458</X><Y>24.99963006668765</Y><Z>0</Z></Point>
+						<Point><X>-0.03264093283421865</X><Y>5.9999969264352355</Y><Z>0</Z></Point>
+						<Point><X>0.10336101114875593</X><Y>-18.999633140252413</Y><Z>0</Z></Point>
+						<Point><X>6.675359067165782</X><Y>-95.30500307356476</Y><Z>0</Z></Point>
+					</Points>
+					<Bidirectional>false</Bidirectional>
+					<SpeedLimit>false</SpeedLimit>
+					<SpeedLimitValue Class="CodeUnitValue">
+						<Code><![CDATA[10.0]]></Code>
+						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+					</SpeedLimitValue>
+					<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
+					<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
+				</Path>
+				<PointNode>
+					<Id>1743769980992</Id>
+					<Name><![CDATA[node30]]></Name>
+					<X>935</X><Y>35</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<Z>0</Z>
+					<FakeNode>true</FakeNode>	
+					<Lock>false</Lock>
+					<Color>-14774017</Color>
+					<Radius>10</Radius>
+					<SpeedLimit>false</SpeedLimit>
+					<SpeedLimitValue Class="UnitValue">
+						<Value Class="Double">10</Value>
+						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+					</SpeedLimitValue>
+				</PointNode>
+				<Path SourceId="1743769980992" TargetId="1743769987255">
+					<Id>1743769896074</Id>
+					<Name><![CDATA[path60]]></Name>
+					<X>938.1622776601683</X><Y>44.48683298050513</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<Z>0</Z>
+					<LineColor>-14774017</LineColor>
+					<LineMaterial>null</LineMaterial>
+					<LineWidth>1</LineWidth>
+					<PathType>railroad</PathType>
+					
+					<Width Class="UnitValue">
+						<Value Class="Double">5</Value>
+						<Unit Class="LengthUnits"><![CDATA[METER]]></Unit>
+					</Width>
+					<Points>
+						<Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>-7.906</X><Y>-23.717</Y><Z>0</Z></Point>
+						<Point><X>-0.49238794511861234</X><Y>24.99515061189874</Y><Z>0</Z></Point>
+						<Point><X>-2.9650448219525565</X><Y>150.51493975524056</Y><Z>0</Z></Point>
+						<Point><X>-2.4726568768339443</X><Y>125.51978914334182</Y><Z>0</Z></Point>
+						<Point><X>-3.4574327670711678</X><Y>175.5100903671393</Y><Z>0</Z></Point>
+					</Points>
+					<Bidirectional>false</Bidirectional>
+					<SpeedLimit>false</SpeedLimit>
+					<SpeedLimitValue Class="CodeUnitValue">
+						<Code><![CDATA[10.0]]></Code>
+						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+					</SpeedLimitValue>
+					<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
+					<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
+				</Path>
+				<Path SourceId="1743769980992" TargetId="1742447702913">
+					<Id>1743769980995</Id>
+					<Name><![CDATA[path61]]></Name>
+					<X>945</X><Y>35.00011952250342</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<Z>0</Z>
+					<LineColor>-16777216</LineColor>
+					<LineMaterial>null</LineMaterial>
+					<LineWidth>2</LineWidth>
+					<PathType>railroad</PathType>
+					
+					<Width Class="UnitValue">
+						<Value Class="Double">5</Value>
+						<Unit Class="LengthUnits"><![CDATA[METER]]></Unit>
+					</Width>
+					<Points>
+						<Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>-25</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>25</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>220.0004045419489</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>195.0004045419489</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>245.00040454016306</X><Y>-2.98818346966101E-4</Y><Z>0</Z></Point>
+						<Point><X>226.0000000002858</X><Y>-7.171156789809174E-5</Y><Z>0</Z></Point>
+						<Point><X>201.00000000207166</X><Y>2.2710677906800925E-4</Y><Z>0</Z></Point>
+						<Point><X>251.0000000002858</X><Y>-7.171156789809174E-5</Y><Z>0</Z></Point>
+					</Points>
+					<Bidirectional>false</Bidirectional>
+					<SpeedLimit>false</SpeedLimit>
+					<SpeedLimitValue Class="CodeUnitValue">
+						<Code><![CDATA[10.0]]></Code>
+						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+					</SpeedLimitValue>
+					<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
+					<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
+				</Path>
+				<PointNode>
+					<Id>1743769987255</Id>
+					<Name><![CDATA[node31]]></Name>
+					<X>935.0002776601683</X><Y>204.99983298050512</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<Z>0</Z>
+					<FakeNode>true</FakeNode>	
+					<Lock>false</Lock>
+					<Color>-14774017</Color>
+					<Radius>10</Radius>
+					<SpeedLimit>false</SpeedLimit>
+					<SpeedLimitValue Class="UnitValue">
+						<Value Class="Double">10</Value>
+						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+					</SpeedLimitValue>
+				</PointNode>
+				<Path SourceId="1743769987255" TargetId="1743770602452">
+					<Id>1743769987258</Id>
+					<Name><![CDATA[path62]]></Name>
+					<X>945.0002776601683</X><Y>204.99979882264861</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<Z>0</Z>
+					<LineColor>-14774017</LineColor>
+					<LineMaterial>null</LineMaterial>
+					<LineWidth>1</LineWidth>
+					<PathType>railroad</PathType>
+					
+					<Width Class="UnitValue">
+						<Value Class="Double">5</Value>
+						<Unit Class="LengthUnits"><![CDATA[METER]]></Unit>
+					</Width>
+					<Points>
+						<Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>-25</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>25</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>4.9995231247326615</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>-20.00047687526734</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>29.99952312473266</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>84.99952312473272</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>59.99952312473272</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>109.99952312473272</X><Y>0</Y><Z>0</Z></Point>
+					</Points>
+					<Bidirectional>false</Bidirectional>
+					<SpeedLimit>false</SpeedLimit>
+					<SpeedLimitValue Class="CodeUnitValue">
+						<Code><![CDATA[10.0]]></Code>
+						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+					</SpeedLimitValue>
+					<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
+					<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
+				</Path>
+				<Path SourceId="1743770075417" TargetId="1743770104225">
+					<Id>1743770044921</Id>
+					<Name><![CDATA[path63]]></Name>
+					<X>1164.8264949631298</X><Y>622.6987823250472</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<Z>0</Z>
+					<LineColor>-14774017</LineColor>
+					<LineMaterial>null</LineMaterial>
+					<LineWidth>1</LineWidth>
+					<PathType>railroad</PathType>
+					
+					<Width Class="UnitValue">
+						<Value Class="Double">5</Value>
+						<Unit Class="LengthUnits"><![CDATA[METER]]></Unit>
+					</Width>
+					<Points>
+						<Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>20.671</X><Y>14.061</Y><Z>0</Z></Point>
+						<Point><X>-21.791</X><Y>-12.253</Y><Z>0</Z></Point>
+						<Point><X>-84.826</X><Y>-47.699</Y><Z>0</Z></Point>
+						<Point><X>-63.035</X><Y>-35.445</Y><Z>0</Z></Point>
+						<Point><X>-108.321</X><Y>-56.243</Y><Z>0</Z></Point>
+						<Point><X>-139.826</X><Y>-67.699</Y><Z>0</Z></Point>
+						<Point><X>-116.331</X><Y>-59.155</Y><Z>0</Z></Point>
+						<Point><X>-164.826</X><Y>-67.685</Y><Z>0</Z></Point>
+						<Point><X>-149.42800157454292</X><Y>-67.69361167139476</Y><Z>0</Z></Point>
+						<Point><X>-124.4280055109002</X><Y>-67.70764084988164</Y><Z>0</Z></Point>
+						<Point><X>-174.42799763818562</X><Y>-67.67958249290785</Y><Z>0</Z></Point>
+					</Points>
+					<Bidirectional>false</Bidirectional>
+					<SpeedLimit>false</SpeedLimit>
+					<SpeedLimitValue Class="CodeUnitValue">
+						<Code><![CDATA[10.0]]></Code>
+						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+					</SpeedLimitValue>
+					<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
+					<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
+				</Path>
+				<PointNode>
+					<Id>1743770075417</Id>
+					<Name><![CDATA[node33]]></Name>
+					<X>1173.095</X><Y>628.323</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<Z>0</Z>
+					<FakeNode>true</FakeNode>	
+					<Lock>false</Lock>
+					<Color>-14774017</Color>
+					<Radius>10</Radius>
+					<SpeedLimit>false</SpeedLimit>
+					<SpeedLimitValue Class="UnitValue">
+						<Value Class="Double">10</Value>
+						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+					</SpeedLimitValue>
+				</PointNode>
+				<Path SourceId="1743770075417" TargetId="1743770174656">
+					<Id>1743770075420</Id>
+					<Name><![CDATA[path65]]></Name>
+					<X>1166.4873014268228</X><Y>635.8288856717916</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<Z>0</Z>
+					<LineColor>-14774017</LineColor>
+					<LineMaterial>null</LineMaterial>
+					<LineWidth>1</LineWidth>
+					<PathType>railroad</PathType>
+					
+					<Width Class="UnitValue">
+						<Value Class="Double">5</Value>
+						<Unit Class="LengthUnits"><![CDATA[METER]]></Unit>
+					</Width>
+					<Points>
+						<Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>16.51851488612593</X><Y>-18.76535813558686</Y><Z>0</Z></Point>
+						<Point><X>-16.51851488612593</X><Y>18.765358135586865</Y><Z>0</Z></Point>
+						<Point><X>-56.48750260417407</X><Y>64.17091511310944</Y><Z>0</Z></Point>
+						<Point><X>-39.96898771804814</X><Y>45.405556977522586</Y><Z>0</Z></Point>
+						<Point><X>-73.00650260417407</X><Y>82.93591511310944</Y><Z>0</Z></Point>
+						<Point><X>-96.48750260417407</X><Y>124.17091511310943</Y><Z>0</Z></Point>
+						<Point><X>-86.48750260417407</X><Y>124.17091511310943</Y><Z>0</Z></Point>
+						<Point><X>-121.48750260417407</X><Y>124.17091511310943</Y><Z>0</Z></Point>
+						<Point><X>-216.48761333239247</X><Y>124.17091511310943</Y><Z>0</Z></Point>
+						<Point><X>-191.48761333239247</X><Y>124.17091511310943</Y><Z>0</Z></Point>
+						<Point><X>-241.48761333239247</X><Y>124.17091511310943</Y><Z>0</Z></Point>
+					</Points>
+					<Bidirectional>false</Bidirectional>
+					<SpeedLimit>false</SpeedLimit>
+					<SpeedLimitValue Class="CodeUnitValue">
+						<Code><![CDATA[10.0]]></Code>
+						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+					</SpeedLimitValue>
+					<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
+					<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
+				</Path>
+				<Path SourceId="1743770104225" TargetId="1743770171081">
+					<Id>1743770104228</Id>
+					<Name><![CDATA[path64]]></Name>
+					<X>1005.1327617131835</X><Y>565.0072510057884</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<Z>0</Z>
+					<LineColor>-14774017</LineColor>
+					<LineMaterial>null</LineMaterial>
+					<LineWidth>1</LineWidth>
+					<PathType>railroad</PathType>
+					
+					<Width Class="UnitValue">
+						<Value Class="Double">5</Value>
+						<Unit Class="LengthUnits"><![CDATA[METER]]></Unit>
+					</Width>
+					<Points>
+						<Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>0.6655705386108366</X><Y>-24.991138746726506</Y><Z>0</Z></Point>
+						<Point><X>-0.6655705386108366</X><Y>24.991138746726506</Y><Z>0</Z></Point>
+						<Point><X>-0.13296289053494093</X><Y>4.992549779112551</Y><Z>0</Z></Point>
+						<Point><X>0.5326076480758957</X><Y>-19.99858896761384</Y><Z>0</Z></Point>
+						<Point><X>-0.7989628905349946</X><Y>29.983549779112536</Y><Z>0</Z></Point>
+						<Point><X>-15.132962890534941</X><Y>24.99254977911255</Y><Z>0</Z></Point>
+						<Point><X>-15.132962890534941</X><Y>24.99254977911255</Y><Z>0</Z></Point>
+						<Point><X>-15.132962890534941</X><Y>24.99254977911255</Y><Z>0</Z></Point>
+						<Point><X>-50.13296289053494</X><Y>29.99254977911255</Y><Z>0</Z></Point>
+						<Point><X>-15.132962890534941</X><Y>29.99254977911255</Y><Z>0</Z></Point>
+						<Point><X>-75.13296289053494</X><Y>29.99254977911255</Y><Z>0</Z></Point>
+						<Point><X>-60.1330736187532</X><Y>29.99254977911255</Y><Z>0</Z></Point>
+						<Point><X>-35.1330736187532</X><Y>29.99254977911255</Y><Z>0</Z></Point>
+						<Point><X>-85.1330736187532</X><Y>29.99254977911255</Y><Z>0</Z></Point>
+					</Points>
+					<Bidirectional>false</Bidirectional>
+					<SpeedLimit>false</SpeedLimit>
+					<SpeedLimitValue Class="CodeUnitValue">
+						<Code><![CDATA[10.0]]></Code>
+						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+					</SpeedLimitValue>
+					<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
+					<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
+				</Path>
+				<PointNode>
+					<Id>1743770104225</Id>
+					<Name><![CDATA[node32]]></Name>
+					<X>1005.3984949631298</X><Y>555.0107823250472</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<Z>0</Z>
+					<FakeNode>true</FakeNode>	
+					<Lock>false</Lock>
+					<Color>-14774017</Color>
+					<Radius>10</Radius>
+					<SpeedLimit>false</SpeedLimit>
+					<SpeedLimitValue Class="UnitValue">
+						<Value Class="Double">10</Value>
+						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+					</SpeedLimitValue>
+				</PointNode>
+				<Path SourceId="1743770171081" TargetId="1743770259084">
+					<Id>1743770171084</Id>
+					<Name><![CDATA[path67]]></Name>
+					<X>924.9996880944303</X><Y>594.9998007849009</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<Z>0</Z>
+					<LineColor>-14774017</LineColor>
+					<LineMaterial>null</LineMaterial>
+					<LineWidth>1</LineWidth>
+					<PathType>railroad</PathType>
+					
+					<Width Class="UnitValue">
+						<Value Class="Double">5</Value>
+						<Unit Class="LengthUnits"><![CDATA[METER]]></Unit>
+					</Width>
+					<Points>
+						<Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>25</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>-25</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>-24.999688094430326</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>3.1190556967430894E-4</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>-49.999688094430326</X><Y>0</Y><Z>0</Z></Point>
+					</Points>
+					<Bidirectional>false</Bidirectional>
+					<SpeedLimit>false</SpeedLimit>
+					<SpeedLimitValue Class="CodeUnitValue">
+						<Code><![CDATA[10.0]]></Code>
+						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+					</SpeedLimitValue>
+					<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
+					<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
+				</Path>
+				<PointNode>
+					<Id>1743770171081</Id>
+					<Name><![CDATA[node34]]></Name>
+					<X>934.9996880944303</X><Y>594.9999504755443</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<Z>0</Z>
+					<FakeNode>true</FakeNode>	
+					<Lock>false</Lock>
+					<Color>-14774017</Color>
+					<Radius>10</Radius>
+					<SpeedLimit>false</SpeedLimit>
+					<SpeedLimitValue Class="UnitValue">
+						<Value Class="Double">10</Value>
+						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+					</SpeedLimitValue>
+				</PointNode>
+				<Path SourceId="1743770174656" TargetId="1743770171081">
+					<Id>1743770138630</Id>
+					<Name><![CDATA[path66]]></Name>
+					<X>939.6190970399864</X><Y>750.0071955776557</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<Z>0</Z>
+					<LineColor>-14774017</LineColor>
+					<LineMaterial>null</LineMaterial>
+					<LineWidth>1</LineWidth>
+					<PathType>railroad</PathType>
+					
+					<Width Class="UnitValue">
+						<Value Class="Double">5</Value>
+						<Unit Class="LengthUnits"><![CDATA[METER]]></Unit>
+					</Width>
+					<Points>
+						<Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>0.9514776361096808</X><Y>24.98188724472159</Y><Z>0</Z></Point>
+						<Point><X>-0.9514776361096805</X><Y>-24.981887244721584</Y><Z>0</Z></Point>
+						<Point><X>-5.524408945556128</X><Y>-145.04824510211137</Y><Z>0</Z></Point>
+						<Point><X>-4.572931309446448</X><Y>-120.06635785738979</Y><Z>0</Z></Point>
+						<Point><X>-3.2614089455561284</X><Y>-169.94524510211136</Y><Z>0</Z></Point>
+					</Points>
+					<Bidirectional>false</Bidirectional>
+					<SpeedLimit>false</SpeedLimit>
+					<SpeedLimitValue Class="CodeUnitValue">
+						<Code><![CDATA[10.0]]></Code>
+						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+					</SpeedLimitValue>
+					<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
+					<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
+				</Path>
+				<PointNode>
+					<Id>1743770174656</Id>
+					<Name><![CDATA[node35]]></Name>
+					<X>939.9996880944303</X><Y>759.9999504755443</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<Z>0</Z>
+					<FakeNode>true</FakeNode>	
+					<Lock>false</Lock>
+					<Color>-14774017</Color>
+					<Radius>10</Radius>
+					<SpeedLimit>false</SpeedLimit>
+					<SpeedLimitValue Class="UnitValue">
+						<Value Class="Double">10</Value>
+						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+					</SpeedLimitValue>
+				</PointNode>
+				<Path SourceId="1743770174656" TargetId="1742447204932">
+					<Id>1743770174659</Id>
+					<Name><![CDATA[path68]]></Name>
+					<X>929.9996880944303</X><Y>759.999800784901</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<Z>0</Z>
+					<LineColor>-14774017</LineColor>
+					<LineMaterial>null</LineMaterial>
+					<LineWidth>1</LineWidth>
+					<PathType>railroad</PathType>
+					
+					<Width Class="UnitValue">
+						<Value Class="Double">5</Value>
+						<Unit Class="LengthUnits"><![CDATA[METER]]></Unit>
+					</Width>
+					<Points>
+						<Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>25</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>-25</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>-139.99988927178163</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>-114.99988927178163</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>-164.99884195225906</X><Y>-0.22883373713193578</Y><Z>0</Z></Point>
+						<Point><X>-377.17088927178156</X><Y>-2.1709999999999923</Y><Z>0</Z></Point>
+						<Point><X>-352.1719365913041</X><Y>-1.9421662628680565</Y><Z>0</Z></Point>
+						<Point><X>-168.17088927178162</X><Y>7.829000000000008</Y><Z>0</Z></Point>
+					</Points>
+					<Bidirectional>false</Bidirectional>
+					<SpeedLimit>false</SpeedLimit>
+					<SpeedLimitValue Class="CodeUnitValue">
+						<Code><![CDATA[10.0]]></Code>
+						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+					</SpeedLimitValue>
+					<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
+					<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
+				</Path>
+				<Path SourceId="1743770259084" TargetId="1743770340265">
+					<Id>1743770241275</Id>
+					<Name><![CDATA[path69]]></Name>
+					<X>890.2438299245471</X><Y>585.0029730935695</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<Z>0</Z>
+					<LineColor>-14774017</LineColor>
+					<LineMaterial>null</LineMaterial>
+					<LineWidth>1</LineWidth>
+					<PathType>railroad</PathType>
+					
+					<Width Class="UnitValue">
+						<Value Class="Double">5</Value>
+						<Unit Class="LengthUnits"><![CDATA[METER]]></Unit>
+					</Width>
+					<Points>
+						<Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>-0.6100000000000136</X><Y>24.993000000000052</Y><Z>0</Z></Point>
+						<Point><X>-1.3780000000000427</X><Y>-24.96199999999999</Y><Z>0</Z></Point>
+						<Point><X>-5.244</X><Y>-95.003</Y><Z>0</Z></Point>
+						<Point><X>-3.866</X><Y>-70.041</Y><Z>0</Z></Point>
+						<Point><X>-10.343</X><Y>-119.478</Y><Z>0</Z></Point>
+						<Point><X>-30.244</X><Y>-215.003</Y><Z>0</Z></Point>
+						<Point><X>-25.145</X><Y>-190.528</Y><Z>0</Z></Point>
+						<Point><X>-54.993</X><Y>-211.467</Y><Z>0</Z></Point>
+						<Point><X>-65.244</X><Y>-210.003</Y><Z>0</Z></Point>
+						<Point><X>-40.495</X><Y>-213.538</Y><Z>0</Z></Point>
+						<Point><X>-80.595</X><Y>-249.229</Y><Z>0</Z></Point>
+						<Point><X>-90.244</X><Y>-340.003</Y><Z>0</Z></Point>
+						<Point><X>-85.523</X><Y>-315.453</Y><Z>0</Z></Point>
+						<Point><X>-65.437</X><Y>-343.104</Y><Z>0</Z></Point>
+						<Point><X>-50.24382992454707</X><Y>-345.0029730935695</Y><Z>0</Z></Point>
+						<Point><X>-75.05082992454709</X><Y>-341.9019730935695</Y><Z>0</Z></Point>
+						<Point><X>-50.24382992454707</X><Y>-370.0029730935695</Y><Z>0</Z></Point>
+						<Point><X>-50.24382992454707</X><Y>-375.0079730935695</Y><Z>0</Z></Point>
+						<Point><X>-50.24382992454707</X><Y>-350.0079730935695</Y><Z>0</Z></Point>
+						<Point><X>-50.24382992454707</X><Y>-400.0079730935695</Y><Z>0</Z></Point>
+					</Points>
+					<Bidirectional>false</Bidirectional>
+					<SpeedLimit>false</SpeedLimit>
+					<SpeedLimitValue Class="CodeUnitValue">
+						<Code><![CDATA[10.0]]></Code>
+						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+					</SpeedLimitValue>
+					<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
+					<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
+				</Path>
+				<Path SourceId="1743770259084" TargetId="1742447761233">
+					<Id>1743770259087</Id>
+					<Name><![CDATA[path70]]></Name>
+					<X>880</X><Y>594.9998007849009</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<Z>0</Z>
+					<LineColor>-14774017</LineColor>
+					<LineMaterial>null</LineMaterial>
+					<LineWidth>1</LineWidth>
+					<PathType>railroad</PathType>
+					
+					<Width Class="UnitValue">
+						<Value Class="Double">5</Value>
+						<Unit Class="LengthUnits"><![CDATA[METER]]></Unit>
+					</Width>
+					<Points>
+						<Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>25</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>-25</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>-30.000201177351528</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>-5.000201177351528</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>-55.00020117735153</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>-68.11483018953413</X><Y>-6.121871601460157</Y><Z>0</Z></Point>
+						<Point><X>-42.93442505557027</X><Y>-2.129518123942603</Y><Z>0</Z></Point>
+						<Point><X>-93.29523532349799</X><Y>-10.11422507897771</Y><Z>0</Z></Point>
+					</Points>
+					<Bidirectional>false</Bidirectional>
+					<SpeedLimit>false</SpeedLimit>
+					<SpeedLimitValue Class="CodeUnitValue">
+						<Code><![CDATA[10.0]]></Code>
+						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+					</SpeedLimitValue>
+					<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
+					<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
+				</Path>
+				<PointNode>
+					<Id>1743770259084</Id>
+					<Name><![CDATA[node36]]></Name>
+					<X>890</X><Y>595</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<Z>0</Z>
+					<FakeNode>true</FakeNode>	
+					<Lock>false</Lock>
+					<Color>-14774017</Color>
+					<Radius>10</Radius>
+					<SpeedLimit>false</SpeedLimit>
+					<SpeedLimitValue Class="UnitValue">
+						<Value Class="Double">10</Value>
+						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+					</SpeedLimitValue>
+				</PointNode>
+				<Path SourceId="1743770340265" TargetId="1743769987255">
+					<Id>1743770340268</Id>
+					<Name><![CDATA[path72]]></Name>
+					<X>849.90435906224</X><Y>201.32752925090224</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<Z>0</Z>
+					<LineColor>-14774017</LineColor>
+					<LineMaterial>null</LineMaterial>
+					<LineWidth>1</LineWidth>
+					<PathType>railroad</PathType>
+					
+					<Width Class="UnitValue">
+						<Value Class="Double">5</Value>
+						<Unit Class="LengthUnits"><![CDATA[METER]]></Unit>
+					</Width>
+					<Points>
+						<Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>-24.52188694566514</X><Y>-4.863797551709774</Y><Z>0</Z></Point>
+						<Point><X>24.521886945665145</X><Y>4.863797551709774</Y><Z>0</Z></Point>
+						<Point><X>15.095441722660942</X><Y>3.67226957174638</Y><Z>0</Z></Point>
+						<Point><X>5.095441722660942</X><Y>3.67226957174638</Y><Z>0</Z></Point>
+						<Point><X>40.095441722660944</X><Y>3.67226957174638</Y><Z>0</Z></Point>
+						<Point><X>75.09591859792828</X><Y>3.67226957174638</Y><Z>0</Z></Point>
+						<Point><X>50.09591859792828</X><Y>3.67226957174638</Y><Z>0</Z></Point>
+						<Point><X>100.09591859792828</X><Y>3.67226957174638</Y><Z>0</Z></Point>
+					</Points>
+					<Bidirectional>false</Bidirectional>
+					<SpeedLimit>false</SpeedLimit>
+					<SpeedLimitValue Class="CodeUnitValue">
+						<Code><![CDATA[10.0]]></Code>
+						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+					</SpeedLimitValue>
+					<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
+					<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
+				</Path>
+				<PointNode>
+					<Id>1743770340265</Id>
+					<Name><![CDATA[node37]]></Name>
+					<X>840</X><Y>199.995</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<Z>0</Z>
+					<FakeNode>true</FakeNode>	
+					<Lock>false</Lock>
+					<Color>-14774017</Color>
+					<Radius>10</Radius>
+					<SpeedLimit>false</SpeedLimit>
+					<SpeedLimitValue Class="UnitValue">
+						<Value Class="Double">10</Value>
+						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+					</SpeedLimitValue>
+				</PointNode>
+				<Path SourceId="1742444673310" TargetId="1743770728245">
+					<Id>1743770456471</Id>
+					<Name><![CDATA[path71]]></Name>
+					<X>1010</X><Y>505</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<Z>0</Z>
+					<LineColor>-14774017</LineColor>
+					<LineMaterial>null</LineMaterial>
+					<LineWidth>1</LineWidth>
+					<PathType>railroad</PathType>
+					
+					<Width Class="UnitValue">
+						<Value Class="Double">5</Value>
+						<Unit Class="LengthUnits"><![CDATA[METER]]></Unit>
+					</Width>
+					<Points>
+						<Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>-6.259567169711347</X><Y>-24.203673664298808</Y><Z>0</Z></Point>
+						<Point><X>-21.947</X><Y>-11.971</Y><Z>0</Z></Point>
+						<Point><X>-55</X><Y>-30</Y><Z>0</Z></Point>
+						<Point><X>-33.053</X><Y>-18.029</Y><Z>0</Z></Point>
+						<Point><X>-72.678</X><Y>-47.678</Y><Z>0</Z></Point>
+						<Point><X>-75</X><Y>-50</Y><Z>0</Z></Point>
+						<Point><X>-57.322</X><Y>-32.322</Y><Z>0</Z></Point>
+						<Point><X>-75</X><Y>-75</Y><Z>0</Z></Point>
+						<Point><X>-75</X><Y>-85</Y><Z>0</Z></Point>
+						<Point><X>-75</X><Y>-60</Y><Z>0</Z></Point>
+						<Point><X>-75</X><Y>-110</Y><Z>0</Z></Point>
+					</Points>
+					<Bidirectional>false</Bidirectional>
+					<SpeedLimit>false</SpeedLimit>
+					<SpeedLimitValue Class="CodeUnitValue">
+						<Code><![CDATA[10.0]]></Code>
+						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+					</SpeedLimitValue>
+					<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
+					<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
+				</Path>
+				<PointNode>
+					<Id>1743770602452</Id>
+					<Name><![CDATA[node38]]></Name>
+					<X>1040</X><Y>205</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<Z>0</Z>
+					<FakeNode>true</FakeNode>	
+					<Lock>false</Lock>
+					<Color>-14774017</Color>
+					<Radius>10</Radius>
+					<SpeedLimit>false</SpeedLimit>
+					<SpeedLimitValue Class="UnitValue">
+						<Value Class="Double">10</Value>
+						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+					</SpeedLimitValue>
+				</PointNode>
+				<Path SourceId="1743770602452" TargetId="1743770741075">
+					<Id>1743770598123</Id>
+					<Name><![CDATA[path73]]></Name>
+					<X>1042.5766265056034</X><Y>214.66234939601247</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<Z>0</Z>
+					<LineColor>-14774017</LineColor>
+					<LineMaterial>null</LineMaterial>
+					<LineWidth>1</LineWidth>
+					<PathType>railroad</PathType>
+					
+					<Width Class="UnitValue">
+						<Value Class="Double">5</Value>
+						<Unit Class="LengthUnits"><![CDATA[METER]]></Unit>
+					</Width>
+					<Points>
+						<Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>13.948756475129345</X><Y>20.746859829804055</Y><Z>0</Z></Point>
+						<Point><X>-0.47594410998427017</X><Y>24.9954691335084</Y><Z>0</Z></Point>
+						<Point><X>-2.577</X><Y>135.338</Y><Z>0</Z></Point>
+						<Point><X>-2.1010558900157297</X><Y>110.34253086649159</Y><Z>0</Z></Point>
+						<Point><X>19.7836797749979</X><Y>146.51833988749894</Y><Z>0</Z></Point>
+						<Point><X>37.423</X><Y>155.338</Y><Z>0</Z></Point>
+						<Point><X>15.062320225002104</X><Y>144.15766011250105</Y><Z>0</Z></Point>
+						<Point><X>50.285393885688165</X><Y>176.7753231428136</Y><Z>0</Z></Point>
+						<Point><X>56.542891119941544</X><Y>187.20448519990256</Y><Z>0</Z></Point>
+						<Point><X>43.68049723425338</X><Y>165.76716205708897</Y><Z>0</Z></Point>
+						<Point><X>69.40528500562971</X><Y>208.64180834271616</Y><Z>0</Z></Point>
+					</Points>
+					<Bidirectional>false</Bidirectional>
+					<SpeedLimit>false</SpeedLimit>
+					<SpeedLimitValue Class="CodeUnitValue">
+						<Code><![CDATA[10.0]]></Code>
+						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+					</SpeedLimitValue>
+					<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
+					<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
+				</Path>
+				<Path SourceId="1743770602452" TargetId="1743617931538">
+					<Id>1743770602455</Id>
+					<Name><![CDATA[path74]]></Name>
+					<X>1049.9966789924001</X><Y>205.05966637733886</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<Z>0</Z>
+					<LineColor>-14774017</LineColor>
+					<LineMaterial>null</LineMaterial>
+					<LineWidth>1</LineWidth>
+					<PathType>railroad</PathType>
+					
+					<Width Class="UnitValue">
+						<Value Class="Double">5</Value>
+						<Unit Class="LengthUnits"><![CDATA[METER]]></Unit>
+					</Width>
+					<Points>
+						<Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>-11.155292940031668</X><Y>-0.7479568316952989</Y><Z>0</Z></Point>
+						<Point><X>11.155292940031668</X><Y>0.7479568316952989</Y><Z>0</Z></Point>
+						<Point><X>45.003121792500906</X><Y>29.940132445309757</Y><Z>0</Z></Point>
+						<Point><X>40.003121792500906</X><Y>19.940132445309757</Y><Z>0</Z></Point>
+						<Point><X>58.8711217925009</X><Y>50.74113244530976</Y><Z>0</Z></Point>
+						<Point><X>55.003121792500906</X><Y>44.94013244530976</Y><Z>0</Z></Point>
+						<Point><X>41.13612179250089</X><Y>24.13913244530976</Y><Z>0</Z></Point>
+						<Point><X>68.87012179250092</X><Y>65.74113244530976</Y><Z>0</Z></Point>
+						<Point><X>57.147975315701785</X><Y>47.81867563061853</Y><Z>0</Z></Point>
+						<Point><X>49.28474401642336</X><Y>39.87074548912583</Y><Z>0</Z></Point>
+						<Point><X>65.01120661498021</X><Y>55.76660577211122</Y><Z>0</Z></Point>
+					</Points>
+					<Bidirectional>false</Bidirectional>
+					<SpeedLimit>false</SpeedLimit>
+					<SpeedLimitValue Class="CodeUnitValue">
+						<Code><![CDATA[10.0]]></Code>
+						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+					</SpeedLimitValue>
+					<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
+					<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
+				</Path>
+				<Path SourceId="1743770728245" TargetId="1743769987255">
+					<Id>1743770728248</Id>
+					<Name><![CDATA[path76]]></Name>
+					<X>935</X><Y>400</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<Z>0</Z>
+					<LineColor>-14774017</LineColor>
+					<LineMaterial>null</LineMaterial>
+					<LineWidth>1</LineWidth>
+					<PathType>railroad</PathType>
+					
+					<Width Class="UnitValue">
+						<Value Class="Double">5</Value>
+						<Unit Class="LengthUnits"><![CDATA[METER]]></Unit>
+					</Width>
+					<Points>
+						<Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>0</X><Y>25</Y><Z>0</Z></Point>
+						<Point><X>0</X><Y>-25</Y><Z>0</Z></Point>
+						<Point><X>0</X><Y>-185</Y><Z>0</Z></Point>
+						<Point><X>0</X><Y>-160</Y><Z>0</Z></Point>
+						<Point><X>6.260000000000005</X><Y>-160.796</Y><Z>0</Z></Point>
+					</Points>
+					<Bidirectional>false</Bidirectional>
+					<SpeedLimit>false</SpeedLimit>
+					<SpeedLimitValue Class="CodeUnitValue">
+						<Code><![CDATA[10.0]]></Code>
+						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+					</SpeedLimitValue>
+					<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
+					<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
+				</Path>
+				<PointNode>
+					<Id>1743770728245</Id>
+					<Name><![CDATA[node39]]></Name>
+					<X>935</X><Y>410</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<Z>0</Z>
+					<FakeNode>true</FakeNode>	
+					<Lock>false</Lock>
+					<Color>-14774017</Color>
+					<Radius>10</Radius>
+					<SpeedLimit>false</SpeedLimit>
+					<SpeedLimitValue Class="UnitValue">
+						<Value Class="Double">10</Value>
+						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+					</SpeedLimitValue>
+				</PointNode>
+				<Path SourceId="1743770728245" TargetId="1743770741075">
+					<Id>1743770723332</Id>
+					<Name><![CDATA[path75]]></Name>
+					<X>944.908301680443</X><Y>408.6488679526669</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<Z>0</Z>
+					<LineColor>-14774017</LineColor>
+					<LineMaterial>null</LineMaterial>
+					<LineWidth>1</LineWidth>
+					<PathType>railroad</PathType>
+					
+					<Width Class="UnitValue">
+						<Value Class="Double">5</Value>
+						<Unit Class="LengthUnits"><![CDATA[METER]]></Unit>
+					</Width>
+					<Points>
+						<Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>24.998417686551594</X><Y>0.28127063249571405</Y><Z>0</Z></Point>
+						<Point><X>149.35663292537944</X><Y>1.6804917470017153</Y><Z>0</Z></Point>
+						<Point><X>124.35821523882785</X><Y>1.3992211145060014</Y><Z>0</Z></Point>
+						<Point><X>174.35505061193103</X><Y>1.9617623794974293</Y><Z>0</Z></Point>
+					</Points>
+					<Bidirectional>false</Bidirectional>
+					<SpeedLimit>false</SpeedLimit>
+					<SpeedLimitValue Class="CodeUnitValue">
+						<Code><![CDATA[10.0]]></Code>
+						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+					</SpeedLimitValue>
+					<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
+					<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
+				</Path>
+				<PointNode>
+					<Id>1743770741075</Id>
+					<Name><![CDATA[node40]]></Name>
+					<X>1104.264301680443</X><Y>410.4418679526669</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<Z>0</Z>
+					<FakeNode>true</FakeNode>	
+					<Lock>false</Lock>
+					<Color>-14774017</Color>
+					<Radius>10</Radius>
+					<SpeedLimit>false</SpeedLimit>
+					<SpeedLimitValue Class="UnitValue">
+						<Value Class="Double">10</Value>
+						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+					</SpeedLimitValue>
+				</PointNode>
+				<Path SourceId="1743770741075" TargetId="1741778453163">
+					<Id>1743770741078</Id>
+					<Name><![CDATA[path77]]></Name>
+					<X>1109.4094327340954</X><Y>419.01669311016593</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<Z>0</Z>
+					<LineColor>-14774017</LineColor>
+					<LineMaterial>null</LineMaterial>
+					<LineWidth>1</LineWidth>
+					<PathType>railroad</PathType>
+					
+					<Width Class="UnitValue">
+						<Value Class="Double">5</Value>
+						<Unit Class="LengthUnits"><![CDATA[METER]]></Unit>
+					</Width>
+					<Points>
+						<Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>-12.862393885688164</X><Y>-21.437323142813604</Y><Z>0</Z></Point>
+						<Point><X>12.86239388568816</X><Y>21.437323142813604</Y><Z>0</Z></Point>
+						<Point><X>0.5901937715079191</X><Y>0.9836562858465321</Y><Z>0</Z></Point>
+						<Point><X>-12.27220011418024</X><Y>-20.45366685696707</Y><Z>0</Z></Point>
+						<Point><X>20.59019377150792</X><Y>15.983656285846532</Y><Z>0</Z></Point>
+						<Point><X>80.59019377150791</X><Y>60.983656285846564</Y><Z>0</Z></Point>
+						<Point><X>60.59019377150792</X><Y>45.983656285846564</Y><Z>0</Z></Point>
+						<Point><X>62.91252424184423</X><Y>78.66132581551022</Y><Z>0</Z></Point>
+						<Point><X>70.59019377150791</X><Y>70.98365628584656</Y><Z>0</Z></Point>
+						<Point><X>88.26819377150791</X><Y>53.30565628584657</Y><Z>0</Z></Point>
+						<Point><X>91.89419377150791</X><Y>84.06565628584656</Y><Z>0</Z></Point>
+						<Point><X>151.82119377150792</X><Y>120.86265628584653</Y><Z>0</Z></Point>
+						<Point><X>130.51619377150791</X><Y>107.78065628584653</Y><Z>0</Z></Point>
+						<Point><X>137.87219377150794</X><Y>100.11565628584657</Y><Z>0</Z></Point>
+					</Points>
+					<Bidirectional>false</Bidirectional>
+					<SpeedLimit>false</SpeedLimit>
+					<SpeedLimitValue Class="CodeUnitValue">
+						<Code><![CDATA[10.0]]></Code>
+						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+					</SpeedLimitValue>
+					<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
+					<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
+				</Path>
+				<Path SourceId="1743770781904" TargetId="1743770916868">
+					<Id>1743770775532</Id>
+					<Name><![CDATA[path78]]></Name>
+					<X>459.1171753548484</X><Y>747.9219913616415</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<Z>0</Z>
+					<LineColor>-14774017</LineColor>
+					<LineMaterial>null</LineMaterial>
+					<LineWidth>1</LineWidth>
+					<PathType>railroad</PathType>
+					
+					<Width Class="UnitValue">
+						<Value Class="Double">5</Value>
+						<Unit Class="LengthUnits"><![CDATA[METER]]></Unit>
+					</Width>
+					<Points>
+						<Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>-12.845066384400624</X><Y>-21.447710124401183</Y><Z>0</Z></Point>
+						<Point><X>3.0461817912373528</X><Y>-24.813721536575965</Y><Z>0</Z></Point>
+						<Point><X>5.883</X><Y>-47.922</Y><Z>0</Z></Point>
+						<Point><X>2.8368182087626472</X><Y>-23.108278463424032</Y><Z>0</Z></Point>
+						<Point><X>4.323542846120487</X><Y>-72.87331446207222</Y><Z>0</Z></Point>
+						<Point><X>0.883</X><Y>-127.922</Y><Z>0</Z></Point>
+						<Point><X>2.4424571538795132</X><Y>-102.97068553792778</Y><Z>0</Z></Point>
+						<Point><X>-18.63872023607576</X><Y>-143.53937618886062</Y><Z>0</Z></Point>
+						<Point><X>-49.117</X><Y>-167.922</Y><Z>0</Z></Point>
+						<Point><X>-29.59527976392424</X><Y>-152.30462381113938</Y><Z>0</Z></Point>
+						<Point><X>-50.430970828069086</X><Y>-192.88744573331275</Y><Z>0</Z></Point>
+						<Point><X>-54.117</X><Y>-262.922</Y><Z>0</Z></Point>
+						<Point><X>-52.80302917193091</X><Y>-237.95655426668728</Y><Z>0</Z></Point>
+						<Point><X>-79.0785088301353</X><Y>-264.3087504905631</Y><Z>0</Z></Point>
+						<Point><X>-144.117</X><Y>-267.922</Y><Z>0</Z></Point>
+						<Point><X>-119.15549116986467</X><Y>-266.53524950943694</Y><Z>0</Z></Point>
+						<Point><X>-168.47677989236547</X><Y>-262.30051233253107</Y><Z>0</Z></Point>
+						<Point><X>-209.117</X><Y>-252.922</Y><Z>0</Z></Point>
+						<Point><X>-184.7572201076345</X><Y>-258.543487667469</Y><Z>0</Z></Point>
+						<Point><X>-215.1803906259083</X><Y>-277.1755625036333</Y><Z>0</Z></Point>
+						<Point><X>-214.117</X><Y>-272.922</Y><Z>0</Z></Point>
+						<Point><X>-208.054</X><Y>-248.668</Y><Z>0</Z></Point>
+						<Point><X>-217.43925897936722</X><Y>-297.7002686092878</Y><Z>0</Z></Point>
+						<Point><X>-227.4020964082531</X><Y>-372.0056925562849</Y><Z>0</Z></Point>
+						<Point><X>-224.07983742888587</X><Y>-347.22742394699713</Y><Z>0</Z></Point>
+						<Point><X>-230.72435538762034</X><Y>-396.78396116557263</Y><Z>0</Z></Point>
+					</Points>
+					<Bidirectional>false</Bidirectional>
+					<SpeedLimit>false</SpeedLimit>
+					<SpeedLimitValue Class="CodeUnitValue">
+						<Code><![CDATA[10.0]]></Code>
+						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+					</SpeedLimitValue>
+					<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
+					<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
+				</Path>
+				<Path SourceId="1743770781904" TargetId="1742446246905">
+					<Id>1743770781907</Id>
+					<Name><![CDATA[path79]]></Name>
+					<X>449.9554832864342</X><Y>758.109844603477</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<Z>0</Z>
+					<LineColor>-14774017</LineColor>
+					<LineMaterial>null</LineMaterial>
+					<LineWidth>1</LineWidth>
+					<PathType>railroad</PathType>
+					
+					<Width Class="UnitValue">
+						<Value Class="Double">5</Value>
+						<Unit Class="LengthUnits"><![CDATA[METER]]></Unit>
+					</Width>
+					<Points>
+						<Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>24.99381370169237</X><Y>-0.5561264650192428</Y><Z>0</Z></Point>
+						<Point><X>-24.993813701692368</X><Y>0.5561264650192428</Y><Z>0</Z></Point>
+						<Point><X>-84.9550532870155</X><Y>1.8902978966683366</Y><Z>0</Z></Point>
+						<Point><X>-59.96123958532314</X><Y>1.3341714316490938</Y><Z>0</Z></Point>
+						<Point><X>-109.9480532870155</X><Y>2.4462978966683364</Y><Z>0</Z></Point>
+						<Point><X>-94.9550532870155</X><Y>-3.1097021033316636</Y><Z>0</Z></Point>
+						<Point><X>-74.9550532870155</X><Y>16.890297896668336</Y><Z>0</Z></Point>
+						<Point><X>-111.91072410677417</X><Y>-21.48101743599046</Y><Z>0</Z></Point>
+						<Point><X>-116.37776292274692</X><Y>-26.321013421040497</Y><Z>0</Z></Point>
+						<Point><X>-99.42209210298826</X><Y>-7.949698088381701</Y><Z>0</Z></Point>
+						<Point><X>-155.46076292274694</X><Y>-47.2680134210405</Y><Z>0</Z></Point>
+					</Points>
+					<Bidirectional>false</Bidirectional>
+					<SpeedLimit>false</SpeedLimit>
+					<SpeedLimitValue Class="CodeUnitValue">
+						<Code><![CDATA[10.0]]></Code>
+						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+					</SpeedLimitValue>
+					<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
+					<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
+				</Path>
+				<PointNode>
+					<Id>1743770781904</Id>
+					<Name><![CDATA[node41]]></Name>
+					<X>459.953</X><Y>757.887</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<Z>0</Z>
+					<FakeNode>true</FakeNode>	
+					<Lock>false</Lock>
+					<Color>-14774017</Color>
+					<Radius>10</Radius>
+					<SpeedLimit>false</SpeedLimit>
+					<SpeedLimitValue Class="UnitValue">
+						<Value Class="Double">10</Value>
+						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+					</SpeedLimitValue>
+				</PointNode>
+				<Path SourceId="1743770916868" TargetId="1742446680206">
+					<Id>1743770916871</Id>
+					<Name><![CDATA[path80]]></Name>
+					<X>239.7197405798795</X><Y>362.4154843923541</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<Z>0</Z>
+					<LineColor>-14774017</LineColor>
+					<LineMaterial>null</LineMaterial>
+					<LineWidth>1</LineWidth>
+					<PathType>railroad</PathType>
+					
+					<Width Class="UnitValue">
+						<Value Class="Double">5</Value>
+						<Unit Class="LengthUnits"><![CDATA[METER]]></Unit>
+					</Width>
+					<Points>
+						<Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>-23.333640155076477</X><Y>8.97447698272176</Y><Z>0</Z></Point>
+						<Point><X>23.333640155076477</X><Y>-8.974476982721756</Y><Z>0</Z></Point>
+						<Point><X>6.280259420120476</X><Y>-2.4154843923540383</Y><Z>0</Z></Point>
+						<Point><X>-17.053380734956</X><Y>6.558992590367717</Y><Z>0</Z></Point>
+						<Point><X>12.863259420120503</X><Y>-76.44148439235403</Y><Z>0</Z></Point>
+					</Points>
+					<Bidirectional>false</Bidirectional>
+					<SpeedLimit>false</SpeedLimit>
+					<SpeedLimitValue Class="CodeUnitValue">
+						<Code><![CDATA[10.0]]></Code>
+						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+					</SpeedLimitValue>
+					<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
+					<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
+				</Path>
+				<PointNode>
+					<Id>1743770916868</Id>
+					<Name><![CDATA[node42]]></Name>
+					<X>230.38617535484843</X><Y>366.00499136164154</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<Z>0</Z>
+					<FakeNode>true</FakeNode>	
+					<Lock>false</Lock>
+					<Color>-14774017</Color>
+					<Radius>10</Radius>
+					<SpeedLimit>false</SpeedLimit>
+					<SpeedLimitValue Class="UnitValue">
+						<Value Class="Double">10</Value>
+						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+					</SpeedLimitValue>
+				</PointNode>
 			</Presentation>
 
 					<Z>20</Z>
@@ -6197,40 +7466,20 @@ new Thread(() -> {
 					</Properties>                 
 				</Variable>
 			</Variables>
-			<Events>
-				<Event>
-					<Id>1739708582131</Id>
-					<Name><![CDATA[ObjectDetection]]></Name>
-					<X>150</X><Y>160</Y>
+			<Functions>
+				<Function AccessType="default" StaticFunction="false">
+					<ReturnModificator>VOID</ReturnModificator>
+					<ReturnType><![CDATA[double]]></ReturnType>
+					<Id>1743616855626</Id>
+					<Name><![CDATA[CalculateObjectDetection]]></Name>
+					<X>150</X><Y>190</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>true</ShowLabel>
-					<Properties TriggerType="timeout" Mode="cyclic">
-						<Timeout Class="CodeUnitValue">
-							<Code><![CDATA[1]]></Code>
-							<Unit Class="TimeUnits"><![CDATA[SECOND]]></Unit>
-						</Timeout>
-						<Rate Class="CodeUnitValue">
-							<Code><![CDATA[1]]></Code>
-							<Unit Class="RateUnits"><![CDATA[PER_SECOND]]></Unit>
-						</Rate>
-						<Id>1730553959925</Id>
-						<OccurrenceAtTime>true</OccurrenceAtTime>
-						<OccurrenceDate>1739779200000</OccurrenceDate>
-						<OccurrenceTime Class="CodeUnitValue">
-							<Code><![CDATA[0]]></Code>
-							<Unit Class="TimeUnits"><![CDATA[SECOND]]></Unit>
-						</OccurrenceTime>
-						<RecurrenceCode Class="CodeUnitValue">
-							<Code><![CDATA[32]]></Code>
-							<Unit Class="TimeUnits"><![CDATA[MILLISECOND]]></Unit>
-						</RecurrenceCode>
-						<Condition><![CDATA[false]]></Condition>
-					</Properties>
-					<Action><![CDATA[if(Running == 1){
+					<Body><![CDATA[if(Running == 1){
 // Assuming 'this' is the agent trying to detect the agent in front
-double detectionRange = 10; // The range within which to detect other agents
+double detectionRange = 12; // The range within which to detect other agents
 double frontAngle = this.getRotation(); // Angle (direction) the agent is facing
 
 // Get all agents in the world or in a specific area
@@ -6272,41 +7521,9 @@ if (nearestAgent != null && nearestAgent != this) {
     Detect = 0;
     this.setSpeed(10);
 }
-}]]></Action>
-				</Event>
-				<Event>
-					<Id>1742701020043</Id>
-					<Name><![CDATA[StepEvent]]></Name>
-					<X>170</X><Y>240</Y>
-					<Label><X>10</X><Y>0</Y></Label>
-					<PublicFlag>false</PublicFlag>
-					<PresentationFlag>true</PresentationFlag>
-					<ShowLabel>true</ShowLabel>
-					<Properties TriggerType="timeout" Mode="cyclic">
-						<Timeout Class="CodeUnitValue">
-							<Code><![CDATA[1]]></Code>
-							<Unit Class="TimeUnits"><![CDATA[SECOND]]></Unit>
-						</Timeout>
-						<Rate Class="CodeUnitValue">
-							<Code><![CDATA[1]]></Code>
-							<Unit Class="RateUnits"><![CDATA[PER_SECOND]]></Unit>
-						</Rate>
-						<Id>1742701020041</Id>
-						<OccurrenceAtTime>true</OccurrenceAtTime>
-						<OccurrenceDate>1742716800000</OccurrenceDate>
-						<OccurrenceTime Class="CodeUnitValue">
-							<Code><![CDATA[0]]></Code>
-							<Unit Class="TimeUnits"><![CDATA[SECOND]]></Unit>
-						</OccurrenceTime>
-						<RecurrenceCode Class="CodeUnitValue">
-							<Code><![CDATA[64]]></Code>
-							<Unit Class="TimeUnits"><![CDATA[MILLISECOND]]></Unit>
-						</RecurrenceCode>
-						<Condition><![CDATA[false]]></Condition>
-					</Properties>
-					<Action><![CDATA[internal.step();]]></Action>
-				</Event>
-			</Events>
+}]]></Body>
+				</Function>
+			</Functions>
 			<AgentLinks>
 				<AgentLink>
 					<Id>1730558875329</Id>
@@ -6406,7 +7623,7 @@ if (nearestAgent != null && nearestAgent != this) {
 						</ColorMapping>
 					</ColorTable>
 					<AutoScale>true</AutoScale>
-					<Scale>8.0</Scale>
+					<Scale>6.0</Scale>
 					<Rotation>0.0</Rotation>
 					<AxisOrder>XYZ_AXIS_ORDER</AxisOrder>
 					<ApplyShading>true</ApplyShading>
@@ -6460,7 +7677,7 @@ if (nearestAgent != null && nearestAgent != this) {
 						</ColorMapping>
 					</ColorTable>
 					<AutoScale>true</AutoScale>
-					<Scale>8.0</Scale>
+					<Scale>6.0</Scale>
 					<Rotation>0.0</Rotation>
 					<AxisOrder>XYZ_AXIS_ORDER</AxisOrder>
 					<ApplyShading>true</ApplyShading>
@@ -7095,31 +8312,13 @@ public class ClientHandler {
     	DatabaseInterface.initializeConnection();
     	refreshMapData();
     	
-    	podScheduler = Executors.newScheduledThreadPool(3);
+    	podScheduler = Executors.newScheduledThreadPool(1);
     	
-    	/*
-    	// test bookings
-    	for (int i=0; i<20; ++i) {
-    		Booking tb = new Booking();
-        	tb.bookingID = -i;
-        	tb.time = new Date();
-        	tb.departureName = "Station"+ThreadLocalRandom.current().nextInt(2, 11);
-        	tb.destinationName = "Station"+ThreadLocalRandom.current().nextInt(2, 11);
-        	schedulePodExec(tb);
+    	
+    	ScheduledExecutorService pods = Executors.newScheduledThreadPool(10);
+    	for (Trellis p : AnyLogicServerEngine.getPods()) {
+            pods.scheduleAtFixedRate(() -> p.internal.step(), 0, 16, TimeUnit.MILLISECONDS);
     	}
-    	*/
-        
-    	/*
-        try (ServerSocket serverSocket = new ServerSocket(PORT)) {
-            System.out.println("Server started on port " + PORT);
-            
-            // bookings
-            
-            
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-        */
     	
     	try {
     		while (true) {
@@ -7167,7 +8366,7 @@ public class ClientHandler {
     
     public static boolean schedulePodExec(Booking b) {
     	long delay = (b.time.getTime() - System.currentTimeMillis()) + 10;
-    	delay = Math.max(0, delay);
+    	delay = Math.max(1, delay);
     	
     	/*
         if (delay < 0) {
@@ -7564,6 +8763,8 @@ public class TrellisPod implements Serializable {
     }
     
     public void step() {
+    	parent.CalculateObjectDetection();
+    	
         int arrivalTime = (int)(parent.timeToArrival() * 1000); // milliseconds
         
         switch (this.state) {
