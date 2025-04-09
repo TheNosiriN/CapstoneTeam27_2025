@@ -1973,7 +1973,7 @@ new Thread(() -> {
 						<Point><X>-9.42160718489802</X><Y>18.029815616166513</Y><Z>0</Z></Point>
 						<Point><X>-49.385999999999996</X><Y>44.99700000000001</Y><Z>0</Z></Point>
 					</Points>
-					<Bidirectional>true</Bidirectional>
+					<Bidirectional>false</Bidirectional>
 					<SpeedLimit>false</SpeedLimit>
 					<SpeedLimitValue Class="CodeUnitValue">
 						<Code><![CDATA[10.0]]></Code>
@@ -2147,7 +2147,7 @@ new Thread(() -> {
 						<Point><X>6.482803476213196</X><Y>-4.846540100756215</Y><Z>0</Z></Point>
 						<Point><X>44.46485197036321</X><Y>-13.85675948591177</Y><Z>0</Z></Point>
 					</Points>
-					<Bidirectional>true</Bidirectional>
+					<Bidirectional>false</Bidirectional>
 					<SpeedLimit>false</SpeedLimit>
 					<SpeedLimitValue Class="CodeUnitValue">
 						<Code><![CDATA[10.0]]></Code>
@@ -2850,9 +2850,9 @@ new Thread(() -> {
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<LineColor>-14774017</LineColor>
+					<LineColor>-8388608</LineColor>
 					<LineMaterial>null</LineMaterial>
-					<LineWidth>1</LineWidth>
+					<LineWidth>2</LineWidth>
 					<PathType>dashedLine</PathType>
 					
 					<Width Class="UnitValue">
@@ -2870,7 +2870,7 @@ new Thread(() -> {
 						<Point><X>-2.013</X><Y>-1.859</Y><Z>0</Z></Point>
 						<Point><X>-14.292</X><Y>-8.636</Y><Z>0</Z></Point>
 					</Points>
-					<Bidirectional>true</Bidirectional>
+					<Bidirectional>false</Bidirectional>
 					<SpeedLimit>false</SpeedLimit>
 					<SpeedLimitValue Class="CodeUnitValue">
 						<Code><![CDATA[10.0]]></Code>
@@ -2909,9 +2909,9 @@ new Thread(() -> {
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<LineColor>-14774017</LineColor>
+					<LineColor>-8388608</LineColor>
 					<LineMaterial>null</LineMaterial>
-					<LineWidth>1</LineWidth>
+					<LineWidth>2</LineWidth>
 					<PathType>dashedLine</PathType>
 					
 					<Width Class="UnitValue">
@@ -2929,7 +2929,7 @@ new Thread(() -> {
 						<Point><X>-5.055</X><Y>-0.663</Y><Z>0</Z></Point>
 						<Point><X>-50.86</X><Y>6.86</Y><Z>0</Z></Point>
 					</Points>
-					<Bidirectional>true</Bidirectional>
+					<Bidirectional>false</Bidirectional>
 					<SpeedLimit>false</SpeedLimit>
 					<SpeedLimitValue Class="CodeUnitValue">
 						<Code><![CDATA[10.0]]></Code>
@@ -3077,7 +3077,7 @@ new Thread(() -> {
 						<Point><X>0.979</X><Y>-0.614</Y><Z>0</Z></Point>
 						<Point><X>59.745</X><Y>10.255</Y><Z>0</Z></Point>
 					</Points>
-					<Bidirectional>true</Bidirectional>
+					<Bidirectional>false</Bidirectional>
 					<SpeedLimit>false</SpeedLimit>
 					<SpeedLimitValue Class="CodeUnitValue">
 						<Code><![CDATA[10.0]]></Code>
@@ -3133,7 +3133,7 @@ new Thread(() -> {
 						<Point><X>-25.783</X><Y>-6.166</Y><Z>0</Z></Point>
 						<Point><X>50.452</X><Y>-20.539</Y><Z>0</Z></Point>
 					</Points>
-					<Bidirectional>true</Bidirectional>
+					<Bidirectional>false</Bidirectional>
 					<SpeedLimit>false</SpeedLimit>
 					<SpeedLimitValue Class="CodeUnitValue">
 						<Code><![CDATA[10.0]]></Code>
@@ -3320,7 +3320,7 @@ new Thread(() -> {
 						<Point><X>-16.988794694827195</X><Y>-12.418421858616886</Y><Z>0</Z></Point>
 						<Point><X>20.50642712474619</X><Y>10.506427124746187</Y><Z>0</Z></Point>
 					</Points>
-					<Bidirectional>true</Bidirectional>
+					<Bidirectional>false</Bidirectional>
 					<SpeedLimit>false</SpeedLimit>
 					<SpeedLimitValue Class="CodeUnitValue">
 						<Code><![CDATA[10.0]]></Code>
@@ -3376,7 +3376,7 @@ new Thread(() -> {
 						<Point><X>-6.996656131710838</X><Y>-28.643051465335517</Y><Z>0</Z></Point>
 						<Point><X>-37.682</X><Y>-56.429</Y><Z>0</Z></Point>
 					</Points>
-					<Bidirectional>true</Bidirectional>
+					<Bidirectional>false</Bidirectional>
 					<SpeedLimit>false</SpeedLimit>
 					<SpeedLimitValue Class="CodeUnitValue">
 						<Code><![CDATA[10.0]]></Code>
@@ -3529,7 +3529,7 @@ new Thread(() -> {
 						<Point><X>5.722298191376414</X><Y>-15.35719249593776</Y><Z>0</Z></Point>
 						<Point><X>23.180404757968805</X><Y>-62.210308882251965</Y><Z>0</Z></Point>
 					</Points>
-					<Bidirectional>true</Bidirectional>
+					<Bidirectional>false</Bidirectional>
 					<SpeedLimit>false</SpeedLimit>
 					<SpeedLimitValue Class="CodeUnitValue">
 						<Code><![CDATA[10.0]]></Code>
@@ -3682,7 +3682,7 @@ new Thread(() -> {
 						<Point><X>2.204</X><Y>-15.354</Y><Z>0</Z></Point>
 						<Point><X>2.204</X><Y>-15.354</Y><Z>0</Z></Point>
 					</Points>
-					<Bidirectional>true</Bidirectional>
+					<Bidirectional>false</Bidirectional>
 					<SpeedLimit>false</SpeedLimit>
 					<SpeedLimitValue Class="CodeUnitValue">
 						<Code><![CDATA[10.0]]></Code>
@@ -3918,7 +3918,7 @@ new Thread(() -> {
 						<Point><X>-0.06198970242950175</X><Y>0.139715205078776</Y><Z>0</Z></Point>
 						<Point><X>18.747999999999998</X><Y>-46.16</Y><Z>0</Z></Point>
 					</Points>
-					<Bidirectional>true</Bidirectional>
+					<Bidirectional>false</Bidirectional>
 					<SpeedLimit>false</SpeedLimit>
 					<SpeedLimitValue Class="CodeUnitValue">
 						<Code><![CDATA[10.0]]></Code>
@@ -4229,7 +4229,7 @@ new Thread(() -> {
 						<Point><X>4.099961008264646</X><Y>-3.6300354812338327</Y><Z>0</Z></Point>
 						<Point><X>4.099961008264646</X><Y>-3.6300354812338327</Y><Z>0</Z></Point>
 					</Points>
-					<Bidirectional>true</Bidirectional>
+					<Bidirectional>false</Bidirectional>
 					<SpeedLimit>false</SpeedLimit>
 					<SpeedLimitValue Class="CodeUnitValue">
 						<Code><![CDATA[10.0]]></Code>
@@ -4805,7 +4805,7 @@ new Thread(() -> {
 						<Point><X>9.552</X><Y>-3.4770000000000003</Y><Z>0</Z></Point>
 						<Point><X>85.156</X><Y>-1.209</Y><Z>0</Z></Point>
 					</Points>
-					<Bidirectional>true</Bidirectional>
+					<Bidirectional>false</Bidirectional>
 					<SpeedLimit>false</SpeedLimit>
 					<SpeedLimitValue Class="CodeUnitValue">
 						<Code><![CDATA[10.0]]></Code>
@@ -4841,7 +4841,7 @@ new Thread(() -> {
 						<Point><X>0.593</X><Y>0.34</Y><Z>0</Z></Point>
 						<Point><X>57.938</X><Y>-14.365</Y><Z>0</Z></Point>
 					</Points>
-					<Bidirectional>true</Bidirectional>
+					<Bidirectional>false</Bidirectional>
 					<SpeedLimit>false</SpeedLimit>
 					<SpeedLimitValue Class="CodeUnitValue">
 						<Code><![CDATA[10.0]]></Code>
@@ -4877,7 +4877,7 @@ new Thread(() -> {
 						<Point><X>17.987</X><Y>-1.227</Y><Z>0</Z></Point>
 						<Point><X>5.858</X><Y>-5.858</Y><Z>0</Z></Point>
 					</Points>
-					<Bidirectional>true</Bidirectional>
+					<Bidirectional>false</Bidirectional>
 					<SpeedLimit>false</SpeedLimit>
 					<SpeedLimitValue Class="CodeUnitValue">
 						<Code><![CDATA[10.0]]></Code>
@@ -4913,7 +4913,7 @@ new Thread(() -> {
 						<Point><X>15.61</X><Y>3.5119999999999996</Y><Z>0</Z></Point>
 						<Point><X>0</X><Y>24</Y><Z>0</Z></Point>
 					</Points>
-					<Bidirectional>true</Bidirectional>
+					<Bidirectional>false</Bidirectional>
 					<SpeedLimit>false</SpeedLimit>
 					<SpeedLimitValue Class="CodeUnitValue">
 						<Code><![CDATA[10.0]]></Code>
@@ -4949,7 +4949,7 @@ new Thread(() -> {
 						<Point><X>-0.155</X><Y>-0.09000000000000008</Y><Z>0</Z></Point>
 						<Point><X>24.888</X><Y>0.888</Y><Z>0</Z></Point>
 					</Points>
-					<Bidirectional>true</Bidirectional>
+					<Bidirectional>false</Bidirectional>
 					<SpeedLimit>false</SpeedLimit>
 					<SpeedLimitValue Class="CodeUnitValue">
 						<Code><![CDATA[10.0]]></Code>
@@ -4985,7 +4985,7 @@ new Thread(() -> {
 						<Point><X>6.3337196830909</X><Y>24.052175817016376</Y><Z>0</Z></Point>
 						<Point><X>-15.754</X><Y>13.998000000000001</Y><Z>0</Z></Point>
 					</Points>
-					<Bidirectional>true</Bidirectional>
+					<Bidirectional>false</Bidirectional>
 					<SpeedLimit>false</SpeedLimit>
 					<SpeedLimitValue Class="CodeUnitValue">
 						<Code><![CDATA[10.0]]></Code>
@@ -5311,7 +5311,7 @@ new Thread(() -> {
 						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
 					</SpeedLimitValue>
 				</PointNode>
-				<Path SourceId="1743769987255" TargetId="1743770602452">
+				<Path SourceId="1743769987255" TargetId="1743617931538">
 					<Id>1743769987258</Id>
 					<Name><![CDATA[path62]]></Name>
 					<X>945.0002776601683</X><Y>204.99979882264861</Y>
@@ -5334,12 +5334,21 @@ new Thread(() -> {
 						<Point><X>0</X><Y>0</Y><Z>0</Z></Point>
 						<Point><X>-25</X><Y>0</Y><Z>0</Z></Point>
 						<Point><X>25</X><Y>0</Y><Z>0</Z></Point>
-						<Point><X>4.9995231247326615</X><Y>0</Y><Z>0</Z></Point>
-						<Point><X>-20.00047687526734</X><Y>0</Y><Z>0</Z></Point>
-						<Point><X>29.99952312473266</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>4.999523124732718</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>-20.00047687526728</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>29.99952312473272</X><Y>0</Y><Z>0</Z></Point>
 						<Point><X>84.99952312473272</X><Y>0</Y><Z>0</Z></Point>
 						<Point><X>59.99952312473272</X><Y>0</Y><Z>0</Z></Point>
-						<Point><X>109.99952312473272</X><Y>0</Y><Z>0</Z></Point>
+						<Point><X>116.1516942722634</X><Y>0.8078243863855334</Y><Z>0</Z></Point>
+						<Point><X>149.99952312473272</X><Y>30</Y><Z>0</Z></Point>
+						<Point><X>144.99952312473272</X><Y>20</Y><Z>0</Z></Point>
+						<Point><X>163.86752312473266</X><Y>50.801000000000016</Y><Z>0</Z></Point>
+						<Point><X>159.99952312473272</X><Y>45</Y><Z>0</Z></Point>
+						<Point><X>146.13252312473276</X><Y>24.199000000000012</Y><Z>0</Z></Point>
+						<Point><X>173.86652312473268</X><Y>65.80100000000002</Y><Z>0</Z></Point>
+						<Point><X>162.14437664793365</X><Y>47.87854318530876</Y><Z>0</Z></Point>
+						<Point><X>154.28114534865506</X><Y>39.93061304381607</Y><Z>0</Z></Point>
+						<Point><X>170.00760794721202</X><Y>55.82647332680145</Y><Z>0</Z></Point>
 					</Points>
 					<Bidirectional>false</Bidirectional>
 					<SpeedLimit>false</SpeedLimit>
@@ -5839,7 +5848,7 @@ new Thread(() -> {
 						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
 					</SpeedLimitValue>
 				</PointNode>
-				<Path SourceId="1742444673310" TargetId="1743770728245">
+				<Path SourceId="1742444673310" TargetId="1743769987255">
 					<Id>1743770456471</Id>
 					<Name><![CDATA[path71]]></Name>
 					<X>1010</X><Y>505</Y>
@@ -5860,278 +5869,17 @@ new Thread(() -> {
 					</Width>
 					<Points>
 						<Point><X>0</X><Y>0</Y><Z>0</Z></Point>
-						<Point><X>-6.259567169711347</X><Y>-24.203673664298808</Y><Z>0</Z></Point>
-						<Point><X>-21.947</X><Y>-11.971</Y><Z>0</Z></Point>
+						<Point><X>-6.2595671697113175</X><Y>-24.203673664298833</Y><Z>0</Z></Point>
+						<Point><X>-21.947000000000003</X><Y>-11.971000000000004</Y><Z>0</Z></Point>
 						<Point><X>-55</X><Y>-30</Y><Z>0</Z></Point>
-						<Point><X>-33.053</X><Y>-18.029</Y><Z>0</Z></Point>
+						<Point><X>-33.053</X><Y>-18.028999999999996</Y><Z>0</Z></Point>
 						<Point><X>-72.678</X><Y>-47.678</Y><Z>0</Z></Point>
 						<Point><X>-75</X><Y>-50</Y><Z>0</Z></Point>
 						<Point><X>-57.322</X><Y>-32.322</Y><Z>0</Z></Point>
-						<Point><X>-75</X><Y>-75</Y><Z>0</Z></Point>
-						<Point><X>-75</X><Y>-85</Y><Z>0</Z></Point>
-						<Point><X>-75</X><Y>-60</Y><Z>0</Z></Point>
-						<Point><X>-75</X><Y>-110</Y><Z>0</Z></Point>
-					</Points>
-					<Bidirectional>false</Bidirectional>
-					<SpeedLimit>false</SpeedLimit>
-					<SpeedLimitValue Class="CodeUnitValue">
-						<Code><![CDATA[10.0]]></Code>
-						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
-					</SpeedLimitValue>
-					<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
-					<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
-				</Path>
-				<PointNode>
-					<Id>1743770602452</Id>
-					<Name><![CDATA[node38]]></Name>
-					<X>1040</X><Y>205</Y>
-					<Label><X>10</X><Y>0</Y></Label>
-					<PublicFlag>true</PublicFlag>
-					<PresentationFlag>true</PresentationFlag>
-					<ShowLabel>false</ShowLabel>
-					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
-					<Z>0</Z>
-					<FakeNode>true</FakeNode>	
-					<Lock>false</Lock>
-					<Color>-14774017</Color>
-					<Radius>10</Radius>
-					<SpeedLimit>false</SpeedLimit>
-					<SpeedLimitValue Class="UnitValue">
-						<Value Class="Double">10</Value>
-						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
-					</SpeedLimitValue>
-				</PointNode>
-				<Path SourceId="1743770602452" TargetId="1743770741075">
-					<Id>1743770598123</Id>
-					<Name><![CDATA[path73]]></Name>
-					<X>1042.5766265056034</X><Y>214.66234939601247</Y>
-					<Label><X>10</X><Y>0</Y></Label>
-					<PublicFlag>true</PublicFlag>
-					<PresentationFlag>true</PresentationFlag>
-					<ShowLabel>false</ShowLabel>
-					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
-					<Z>0</Z>
-					<LineColor>-14774017</LineColor>
-					<LineMaterial>null</LineMaterial>
-					<LineWidth>1</LineWidth>
-					<PathType>railroad</PathType>
-					
-					<Width Class="UnitValue">
-						<Value Class="Double">5</Value>
-						<Unit Class="LengthUnits"><![CDATA[METER]]></Unit>
-					</Width>
-					<Points>
-						<Point><X>0</X><Y>0</Y><Z>0</Z></Point>
-						<Point><X>13.948756475129345</X><Y>20.746859829804055</Y><Z>0</Z></Point>
-						<Point><X>-0.47594410998427017</X><Y>24.9954691335084</Y><Z>0</Z></Point>
-						<Point><X>-2.577</X><Y>135.338</Y><Z>0</Z></Point>
-						<Point><X>-2.1010558900157297</X><Y>110.34253086649159</Y><Z>0</Z></Point>
-						<Point><X>19.7836797749979</X><Y>146.51833988749894</Y><Z>0</Z></Point>
-						<Point><X>37.423</X><Y>155.338</Y><Z>0</Z></Point>
-						<Point><X>15.062320225002104</X><Y>144.15766011250105</Y><Z>0</Z></Point>
-						<Point><X>50.285393885688165</X><Y>176.7753231428136</Y><Z>0</Z></Point>
-						<Point><X>56.542891119941544</X><Y>187.20448519990256</Y><Z>0</Z></Point>
-						<Point><X>43.68049723425338</X><Y>165.76716205708897</Y><Z>0</Z></Point>
-						<Point><X>69.40528500562971</X><Y>208.64180834271616</Y><Z>0</Z></Point>
-					</Points>
-					<Bidirectional>false</Bidirectional>
-					<SpeedLimit>false</SpeedLimit>
-					<SpeedLimitValue Class="CodeUnitValue">
-						<Code><![CDATA[10.0]]></Code>
-						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
-					</SpeedLimitValue>
-					<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
-					<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
-				</Path>
-				<Path SourceId="1743770602452" TargetId="1743617931538">
-					<Id>1743770602455</Id>
-					<Name><![CDATA[path74]]></Name>
-					<X>1049.9966789924001</X><Y>205.05966637733886</Y>
-					<Label><X>10</X><Y>0</Y></Label>
-					<PublicFlag>true</PublicFlag>
-					<PresentationFlag>true</PresentationFlag>
-					<ShowLabel>false</ShowLabel>
-					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
-					<Z>0</Z>
-					<LineColor>-14774017</LineColor>
-					<LineMaterial>null</LineMaterial>
-					<LineWidth>1</LineWidth>
-					<PathType>railroad</PathType>
-					
-					<Width Class="UnitValue">
-						<Value Class="Double">5</Value>
-						<Unit Class="LengthUnits"><![CDATA[METER]]></Unit>
-					</Width>
-					<Points>
-						<Point><X>0</X><Y>0</Y><Z>0</Z></Point>
-						<Point><X>-11.155292940031668</X><Y>-0.7479568316952989</Y><Z>0</Z></Point>
-						<Point><X>11.155292940031668</X><Y>0.7479568316952989</Y><Z>0</Z></Point>
-						<Point><X>45.003121792500906</X><Y>29.940132445309757</Y><Z>0</Z></Point>
-						<Point><X>40.003121792500906</X><Y>19.940132445309757</Y><Z>0</Z></Point>
-						<Point><X>58.8711217925009</X><Y>50.74113244530976</Y><Z>0</Z></Point>
-						<Point><X>55.003121792500906</X><Y>44.94013244530976</Y><Z>0</Z></Point>
-						<Point><X>41.13612179250089</X><Y>24.13913244530976</Y><Z>0</Z></Point>
-						<Point><X>68.87012179250092</X><Y>65.74113244530976</Y><Z>0</Z></Point>
-						<Point><X>57.147975315701785</X><Y>47.81867563061853</Y><Z>0</Z></Point>
-						<Point><X>49.28474401642336</X><Y>39.87074548912583</Y><Z>0</Z></Point>
-						<Point><X>65.01120661498021</X><Y>55.76660577211122</Y><Z>0</Z></Point>
-					</Points>
-					<Bidirectional>false</Bidirectional>
-					<SpeedLimit>false</SpeedLimit>
-					<SpeedLimitValue Class="CodeUnitValue">
-						<Code><![CDATA[10.0]]></Code>
-						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
-					</SpeedLimitValue>
-					<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
-					<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
-				</Path>
-				<Path SourceId="1743770728245" TargetId="1743769987255">
-					<Id>1743770728248</Id>
-					<Name><![CDATA[path76]]></Name>
-					<X>935</X><Y>400</Y>
-					<Label><X>10</X><Y>0</Y></Label>
-					<PublicFlag>true</PublicFlag>
-					<PresentationFlag>true</PresentationFlag>
-					<ShowLabel>false</ShowLabel>
-					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
-					<Z>0</Z>
-					<LineColor>-14774017</LineColor>
-					<LineMaterial>null</LineMaterial>
-					<LineWidth>1</LineWidth>
-					<PathType>railroad</PathType>
-					
-					<Width Class="UnitValue">
-						<Value Class="Double">5</Value>
-						<Unit Class="LengthUnits"><![CDATA[METER]]></Unit>
-					</Width>
-					<Points>
-						<Point><X>0</X><Y>0</Y><Z>0</Z></Point>
-						<Point><X>0</X><Y>25</Y><Z>0</Z></Point>
-						<Point><X>0</X><Y>-25</Y><Z>0</Z></Point>
-						<Point><X>0</X><Y>-185</Y><Z>0</Z></Point>
-						<Point><X>0</X><Y>-160</Y><Z>0</Z></Point>
-						<Point><X>6.260000000000005</X><Y>-160.796</Y><Z>0</Z></Point>
-					</Points>
-					<Bidirectional>false</Bidirectional>
-					<SpeedLimit>false</SpeedLimit>
-					<SpeedLimitValue Class="CodeUnitValue">
-						<Code><![CDATA[10.0]]></Code>
-						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
-					</SpeedLimitValue>
-					<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
-					<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
-				</Path>
-				<PointNode>
-					<Id>1743770728245</Id>
-					<Name><![CDATA[node39]]></Name>
-					<X>935</X><Y>410</Y>
-					<Label><X>10</X><Y>0</Y></Label>
-					<PublicFlag>true</PublicFlag>
-					<PresentationFlag>true</PresentationFlag>
-					<ShowLabel>false</ShowLabel>
-					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
-					<Z>0</Z>
-					<FakeNode>true</FakeNode>	
-					<Lock>false</Lock>
-					<Color>-14774017</Color>
-					<Radius>10</Radius>
-					<SpeedLimit>false</SpeedLimit>
-					<SpeedLimitValue Class="UnitValue">
-						<Value Class="Double">10</Value>
-						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
-					</SpeedLimitValue>
-				</PointNode>
-				<Path SourceId="1743770728245" TargetId="1743770741075">
-					<Id>1743770723332</Id>
-					<Name><![CDATA[path75]]></Name>
-					<X>944.908301680443</X><Y>408.6488679526669</Y>
-					<Label><X>10</X><Y>0</Y></Label>
-					<PublicFlag>true</PublicFlag>
-					<PresentationFlag>true</PresentationFlag>
-					<ShowLabel>false</ShowLabel>
-					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
-					<Z>0</Z>
-					<LineColor>-14774017</LineColor>
-					<LineMaterial>null</LineMaterial>
-					<LineWidth>1</LineWidth>
-					<PathType>railroad</PathType>
-					
-					<Width Class="UnitValue">
-						<Value Class="Double">5</Value>
-						<Unit Class="LengthUnits"><![CDATA[METER]]></Unit>
-					</Width>
-					<Points>
-						<Point><X>0</X><Y>0</Y><Z>0</Z></Point>
-						<Point><X>0</X><Y>0</Y><Z>0</Z></Point>
-						<Point><X>24.998417686551594</X><Y>0.28127063249571405</Y><Z>0</Z></Point>
-						<Point><X>149.35663292537944</X><Y>1.6804917470017153</Y><Z>0</Z></Point>
-						<Point><X>124.35821523882785</X><Y>1.3992211145060014</Y><Z>0</Z></Point>
-						<Point><X>174.35505061193103</X><Y>1.9617623794974293</Y><Z>0</Z></Point>
-					</Points>
-					<Bidirectional>false</Bidirectional>
-					<SpeedLimit>false</SpeedLimit>
-					<SpeedLimitValue Class="CodeUnitValue">
-						<Code><![CDATA[10.0]]></Code>
-						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
-					</SpeedLimitValue>
-					<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
-					<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
-				</Path>
-				<PointNode>
-					<Id>1743770741075</Id>
-					<Name><![CDATA[node40]]></Name>
-					<X>1104.264301680443</X><Y>410.4418679526669</Y>
-					<Label><X>10</X><Y>0</Y></Label>
-					<PublicFlag>true</PublicFlag>
-					<PresentationFlag>true</PresentationFlag>
-					<ShowLabel>false</ShowLabel>
-					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
-					<Z>0</Z>
-					<FakeNode>true</FakeNode>	
-					<Lock>false</Lock>
-					<Color>-14774017</Color>
-					<Radius>10</Radius>
-					<SpeedLimit>false</SpeedLimit>
-					<SpeedLimitValue Class="UnitValue">
-						<Value Class="Double">10</Value>
-						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
-					</SpeedLimitValue>
-				</PointNode>
-				<Path SourceId="1743770741075" TargetId="1741778453163">
-					<Id>1743770741078</Id>
-					<Name><![CDATA[path77]]></Name>
-					<X>1109.4094327340954</X><Y>419.01669311016593</Y>
-					<Label><X>10</X><Y>0</Y></Label>
-					<PublicFlag>true</PublicFlag>
-					<PresentationFlag>true</PresentationFlag>
-					<ShowLabel>false</ShowLabel>
-					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
-					<Z>0</Z>
-					<LineColor>-14774017</LineColor>
-					<LineMaterial>null</LineMaterial>
-					<LineWidth>1</LineWidth>
-					<PathType>railroad</PathType>
-					
-					<Width Class="UnitValue">
-						<Value Class="Double">5</Value>
-						<Unit Class="LengthUnits"><![CDATA[METER]]></Unit>
-					</Width>
-					<Points>
-						<Point><X>0</X><Y>0</Y><Z>0</Z></Point>
-						<Point><X>-12.862393885688164</X><Y>-21.437323142813604</Y><Z>0</Z></Point>
-						<Point><X>12.86239388568816</X><Y>21.437323142813604</Y><Z>0</Z></Point>
-						<Point><X>0.5901937715079191</X><Y>0.9836562858465321</Y><Z>0</Z></Point>
-						<Point><X>-12.27220011418024</X><Y>-20.45366685696707</Y><Z>0</Z></Point>
-						<Point><X>20.59019377150792</X><Y>15.983656285846532</Y><Z>0</Z></Point>
-						<Point><X>80.59019377150791</X><Y>60.983656285846564</Y><Z>0</Z></Point>
-						<Point><X>60.59019377150792</X><Y>45.983656285846564</Y><Z>0</Z></Point>
-						<Point><X>62.91252424184423</X><Y>78.66132581551022</Y><Z>0</Z></Point>
-						<Point><X>70.59019377150791</X><Y>70.98365628584656</Y><Z>0</Z></Point>
-						<Point><X>88.26819377150791</X><Y>53.30565628584657</Y><Z>0</Z></Point>
-						<Point><X>91.89419377150791</X><Y>84.06565628584656</Y><Z>0</Z></Point>
-						<Point><X>151.82119377150792</X><Y>120.86265628584653</Y><Z>0</Z></Point>
-						<Point><X>130.51619377150791</X><Y>107.78065628584653</Y><Z>0</Z></Point>
-						<Point><X>137.87219377150794</X><Y>100.11565628584657</Y><Z>0</Z></Point>
+						<Point><X>-75</X><Y>-130</Y><Z>0</Z></Point>
+						<Point><X>-75</X><Y>-290</Y><Z>0</Z></Point>
+						<Point><X>-75</X><Y>-265</Y><Z>0</Z></Point>
+						<Point><X>-68.74000000000001</X><Y>-265.796</Y><Z>0</Z></Point>
 					</Points>
 					<Bidirectional>false</Bidirectional>
 					<SpeedLimit>false</SpeedLimit>
@@ -8425,7 +8173,7 @@ public class ClientHandler {
             }
         };
 
-        podScheduler.schedule(task, delay, TimeUnit.MILLISECONDS);
+        podScheduler.schedule(task, Double.isNaN((double)delay) ? 1 : delay, TimeUnit.MILLISECONDS);
         System.out.println("Booking scheduled for: " + b.time);
         return true;
     }
@@ -8774,6 +8522,9 @@ public class TrellisPod implements Serializable {
         
         case ACCEPTED:
         	DatabaseInterface.updateBookingArrivalTime(curTask.bookingID, arrivalTime);
+        	if (arrivalTime <= 0 && this.state != PodState.WAITING) {
+        		onArrival();
+        	}
         break;
         
         case WAITING:
